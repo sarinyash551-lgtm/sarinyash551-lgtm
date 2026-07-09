@@ -1,108 +1,128 @@
-# Hi there, I'm Yash Sarin 👋
+<h1 align="center">Hi 👋, I'm Yash Sarin</h1>
 
-## 🚀 AI & Machine Learning Engineer
+<h3 align="center">
+AI & Machine Learning Engineer • NLP • RAG • Robotics • Deep Learning
+</h3>
 
-I'm passionate about building intelligent systems using **Machine Learning**, **Natural Language Processing (NLP)**, **Retrieval-Augmented Generation (RAG)**, and **Robotics**.
+<p align="center">
+Building intelligent systems with Machine Learning, Large Language Models, Robotics, and Computer Vision.
+</p>
 
-My interests include:
-- 🤖 Artificial Intelligence
-- 🧠 Deep Learning
-- 📚 Natural Language Processing
+---
+
+# 💫 About Me
+
+🎓 AI & Big Data undergraduate at **Woosong University, South Korea**
+
+🤖 Passionate about **Artificial Intelligence, Machine Learning, Robotics, NLP, Computer Vision and Generative AI**
+
+🔭 Currently building projects involving **Retrieval-Augmented Generation (RAG), Deep Learning, Robotics and AI-powered applications**
+
+🌱 Currently learning **Large Language Models (LLMs), AI Agents, MLOps, Computer Vision and Advanced Robotics**
+
+💡 Interested in solving real-world problems using intelligent systems
+
+📫 Open to **AI Research**, **Internships**, and **Machine Learning Engineer** opportunities
+
+---
+
+# 🚀 Featured Projects
+
+| Project | Description |
+|---------|-------------|
+| 📄 **PaperMind AI** | AI-powered research paper assistant with intelligent document understanding |
+| 🌾 **AgriAssist RAG** | Retrieval-Augmented Generation system for rice pest management |
+| 🤖 **PUMA560 Simulator** | Forward kinematics using Denavit–Hartenberg parameters |
+| 🤖 **Robot Spatial Transformations** | Pure Python robotics mathematics without NumPy |
+| 🎬 **IMDb Sentiment Analysis** | LSTM-based movie review sentiment classifier |
+| ⚙️ **CNN Bearing Fault Classification** | Deep learning model for industrial fault diagnosis |
+
+---
+
+# 💻 Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,fastapi,git,github,docker,linux,vscode,mysql,sqlite,opencv,anaconda&perline=7" />
+
+</p>
+
+---
+
+# 📊 GitHub Statistics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=sarinyash551-lgtm&show_icons=true&theme=github_dark&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarinyash551-lgtm&layout=compact&theme=github_dark&hide_border=true"/>
+
+</p>
+
+---
+
+# 🔥 Contribution Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=sarinyash551-lgtm&theme=github-dark&hide_border=true"/>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sarinyash551-lgtm&theme=github-dark&hide_border=true"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=sarinyash551-lgtm&theme=darkhub&no-frame=true&margin-w=15"/>
+
+</p>
+
+---
+
+# 📚 Currently Exploring
+
+- 🤖 Large Language Models (LLMs)
+- 🧠 AI Agents
 - 🔍 Retrieval-Augmented Generation (RAG)
-- 🌾 AI for Agriculture
-- 🦾 Robotics & Kinematics
-- 📊 Data Science
+- 👁️ Computer Vision
+- ⚙️ MLOps
+- 🦾 Robotics
+- 📈 Deep Learning Optimization
 
 ---
 
-## 💻 Tech Stack
+# 📫 Connect With Me
 
-### Languages
-- Python
-- SQL
+<p align="center">
 
-### Machine Learning & AI
-- TensorFlow
-- Keras
-- Scikit-learn
-- PyTorch (Learning)
+<a href="https://github.com/sarinyash551-lgtm">
+GitHub
+</a> •
+<a href="YOUR_LINKEDIN">
+LinkedIn
+</a> •
+<a href="mailto:YOUR_EMAIL">
+Email
+</a>
 
-### NLP & LLMs
-- FAISS
-- Sentence Transformers
-- LangChain
-- Retrieval-Augmented Generation (RAG)
-
-### Data Science
-- NumPy
-- Pandas
-- Matplotlib
-
-### Development
-- Git
-- GitHub
-- Streamlit
-- FastAPI
+</p>
 
 ---
 
-## 🌟 Featured Projects
+<p align="center">
 
-### 📄 PaperMind AI
-AI-powered research paper assistant for document understanding and question answering.
+⭐ Thanks for visiting my GitHub profile!
 
-### 🌾 AgriAssist RAG
-Retrieval-Augmented Generation system for rice pest management using semantic search and FAISS.
-
-### 🤖 PUMA560 Forward Kinematics
-Forward kinematics simulator for the PUMA 560 robotic manipulator using Denavit–Hartenberg parameters.
-
-### 🤖 Robot Spatial Transformations Tool
-Pure Python implementation of matrix operations and homogeneous transformations for robotics.
-
-### 🎬 IMDb Sentiment Analysis
-LSTM-based sentiment analysis model trained on the IMDb movie review dataset.
-
-### ⚙️ CNN Bearing Fault Classification
-Deep learning approach for rolling bearing fault diagnosis using convolutional neural networks.
-
----
-
-## 📖 Currently Learning
-
-- Large Language Models (LLMs)
-- AI Agents
-- Multi-Agent Systems
-- MLOps
-- Advanced Robotics
-
----
-
-## 🎯 Career Interests
-
-I'm interested in opportunities involving:
-
-- Artificial Intelligence
-- Machine Learning
-- NLP
-- Generative AI
-- Robotics
-- Computer Vision
-
----
-
-## 📈 GitHub Stats
-
-> *(We'll add GitHub Stats cards later once everything else is polished.)*
-
----
-
-## 📫 Connect With Me
-
-- GitHub: https://github.com/sarinyash551-lgtm
-- LinkedIn: www.linkedin.com/in/yash-sarin-700595412
-- Email: phdyash0@gmail.com
-
----
-
-⭐ Thanks for visiting my profile!
+</p>
