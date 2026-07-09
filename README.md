@@ -49,18 +49,6 @@ Building intelligent systems with Machine Learning, Large Language Models, Robot
 
 ---
 
-# 📊 GitHub Statistics
-
-<p align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=sarinyash551-lgtm&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarinyash551-lgtm&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
-
-</p>
-
----
-
 # 🔥 Contribution Streak
 
 <p align="center">
