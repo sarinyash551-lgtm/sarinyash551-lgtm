@@ -81,16 +81,6 @@ Building intelligent systems with Machine Learning, Large Language Models, Robot
 
 ---
 
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=sarinyash551-lgtm&theme=darkhub&no-frame=true&margin-w=15"/>
-
-</p>
-
----
-
 # 📚 Currently Exploring
 
 - 🤖 Large Language Models (LLMs)
@@ -107,15 +97,9 @@ Building intelligent systems with Machine Learning, Large Language Models, Robot
 
 <p align="center">
 
-<a href="https://github.com/sarinyash551-lgtm">
-GitHub
-</a> •
-<a href="YOUR_LINKEDIN">
-LinkedIn
-</a> •
-<a href="mailto:YOUR_EMAIL">
-Email
-</a>
+<a href="https://github.com/sarinyash551-lgtm">GitHub</a> •
+<a href="https://www.linkedin.com/in/yash-sarin-700595412">LinkedIn</a> •
+<a href="mailto:phdyash0@gmail.com">phdyash0@gmail.com</a>
 
 </p>
 
