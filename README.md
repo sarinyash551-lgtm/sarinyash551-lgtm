@@ -81,6 +81,16 @@ Building intelligent systems with Machine Learning, Large Language Models, Robot
 
 ---
 
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=sarinyash551-lgtm&theme=darkhub&no-frame=true&margin-w=15"/>
+
+</p>
+
+---
+
 # 📚 Currently Exploring
 
 - 🤖 Large Language Models (LLMs)
@@ -92,6 +102,7 @@ Building intelligent systems with Machine Learning, Large Language Models, Robot
 - 📈 Deep Learning Optimization
 
 ---
+
 
 # 📫 Connect With Me
 
