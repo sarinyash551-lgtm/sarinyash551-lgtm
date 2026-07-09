@@ -100,8 +100,8 @@ I'm interested in opportunities involving:
 ## 📫 Connect With Me
 
 - GitHub: https://github.com/sarinyash551-lgtm
-- LinkedIn: *(Add your LinkedIn profile here)*
-- Email: *(Add your professional email here)*
+- LinkedIn: www.linkedin.com/in/yash-sarin-700595412
+- Email: phdyash0@gmail.com
 
 ---
 
