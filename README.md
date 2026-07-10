@@ -109,6 +109,18 @@ Building intelligent AI systems that combine Machine Learning, Large Language Mo
 
 ---
 
+# 📚 Currently Exploring
+
+- 🤖 Large Language Models (LLMs)
+- 🧠 AI Agents
+- 🔍 Retrieval-Augmented Generation (RAG)
+- 👁️ Computer Vision
+- ⚙️ MLOps
+- 🦾 Robotics
+- 📈 Deep Learning Optimization
+ 
+---
+
 # 📫 Connect With Me
 
 <p align="center">
