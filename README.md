@@ -38,7 +38,6 @@ Building intelligent AI systems that combine Machine Learning, Large Language Mo
 - Retrieval-Augmented Generation (RAG)
 - Deep Learning
 - NLP
-- Robotics
 - LLM Applications
 
 🌱 Currently Learning
