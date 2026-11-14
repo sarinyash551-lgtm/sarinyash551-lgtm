@@ -17,10 +17,6 @@ Building intelligent AI systems that combine Machine Learning, Large Language Mo
 <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://github.com/sarinyash551-lgtm">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
-
 </p>
 
 ---
@@ -124,7 +120,6 @@ Building intelligent AI systems that combine Machine Learning, Large Language Mo
 
 <p align="center">
 
-<a href="https://github.com/sarinyash551-lgtm">GitHub</a> •
 <a href="https://www.linkedin.com/in/yash-sarin-700595412">LinkedIn</a> •
 <a href="mailto:phdyash0@gmail.com">Email</a>
 
