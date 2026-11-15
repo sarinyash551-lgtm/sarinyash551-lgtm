@@ -14,12 +14,8 @@ Turning complex data, language models, and mathematical concepts into practical 
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 &nbsp;
-<a href="https://mail.google.com/mail/?view=cm&fs=1&to=phdyash0@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-</a>
-&nbsp;
-<a href="https://outlook.office.com/mail/deeplink/compose?to=phdyash0%40gmail.com">
-  <img src="https://img.shields.io/badge/Outlook-Email-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Outlook"/>
+<a href="mailto:phdyash0@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 
 </div>
