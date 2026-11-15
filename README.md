@@ -8,19 +8,13 @@
 
 <img src="https://capsule-render.vercel.app/api?type=wave&color=0:0F172A,50:312E81,100:2563EB&height=220&section=header&text=YASH%20SARIN&fontSize=55&fontColor=FFFFFF&fontAlignY=38" width="100%" alt="Yash Sarin - AI and Machine Learning Engineer"/>
 
-<br/>
-
 # AI & MACHINE LEARNING ENGINEER
 
 ### Engineering Intelligence. Building What Matters.
 
 **NLP** &nbsp;·&nbsp; **RAG** &nbsp;·&nbsp; **Deep Learning** &nbsp;·&nbsp; **Robotics** &nbsp;·&nbsp; **Generative AI**
 
-<br/>
-
 Building practical intelligent systems through machine learning, language technologies and mathematical engineering.
-
-<br/><br/>
 
 <a href="https://www.linkedin.com/in/yash-sarin-700595412">
 <img src="https://img.shields.io/badge/LINKEDIN-LET'S%20CONNECT-2563EB?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
@@ -30,7 +24,7 @@ Building practical intelligent systems through machine learning, language techno
 <img src="https://img.shields.io/badge/EMAIL-GET%20IN%20TOUCH-7C3AED?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 
-<br/><br/>
+<br/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&duration=3000&pause=1000&color=818CF8&center=true&vCenter=true&width=650&lines=Building+Intelligent+AI+Systems;Exploring+Language+Models+%26+RAG;Engineering+Practical+Machine+Learning;Connecting+Mathematics+with+Intelligent+Systems" alt="Animated introduction"/>
 
@@ -46,55 +40,48 @@ Building practical intelligent systems through machine learning, language techno
 
 </div>
 
-<table width="100%">
-<tr>
-<td width="62%" valign="top">
-
 I'm an **AI & Big Data graduate from Woosong University, South Korea**, passionate about developing intelligent systems that address real-world engineering and industrial challenges.
-
-<br/>
 
 My interests span the intersection of artificial intelligence, mathematical modeling and software development.
 
-</td>
-<td width="38%" valign="top">
-
-**MY APPROACH**
+### MY APPROACH
 
 <table width="100%">
 <tr>
-<td width="50%" valign="top">
+<td width="25%" valign="top">
 
-<sub>01 — UNDERSTAND</sub>
+<sub>01</sub>
 
-**Understand the problem**
+**UNDERSTAND**
 
-</td>
-<td width="50%" valign="top">
-
-<sub>02 — DEVELOP</sub>
-
-**Develop the model**
+Understand the problem
 
 </td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+<td width="25%" valign="top">
 
-<sub>03 — IMPLEMENT</sub>
+<sub>02</sub>
 
-**Implement the solution**
+**DEVELOP**
 
-</td>
-<td width="50%" valign="top">
-
-<sub>04 — EVALUATE</sub>
-
-**Evaluate the results**
+Develop the model
 
 </td>
-</tr>
-</table>
+<td width="25%" valign="top">
+
+<sub>03</sub>
+
+**IMPLEMENT**
+
+Implement the solution
+
+</td>
+<td width="25%" valign="top">
+
+<sub>04</sub>
+
+**EVALUATE**
+
+Evaluate the results
 
 </td>
 </tr>
@@ -102,72 +89,15 @@ My interests span the intersection of artificial intelligence, mathematical mode
 
 ### Areas of Focus
 
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
-
-**ARTIFICIAL INTELLIGENCE**
-
-Intelligent Systems & Generative AI
-
-</td>
-<td width="50%" valign="top">
-
-**MACHINE LEARNING**
-
-Predictive Modeling & Classification
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-**DEEP LEARNING**
-
-CNNs, LSTMs & Neural Networks
-
-</td>
-<td width="50%" valign="top">
-
-**NATURAL LANGUAGE PROCESSING**
-
-LLMs & Text Processing
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-**RETRIEVAL SYSTEMS**
-
-RAG, Embeddings & Semantic Search
-
-</td>
-<td width="50%" valign="top">
-
-**ROBOTICS**
-
-Kinematics & Spatial Transformations
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-**COMPUTER VISION**
-
-Image Processing & Visual Recognition
-
-</td>
-<td width="50%" valign="top">
-
-**AI ENGINEERING**
-
-Practical AI Applications & Deployment
-
-</td>
-</tr>
-</table>
+| **ARTIFICIAL INTELLIGENCE** | **MACHINE LEARNING** |
+|:---|:---|
+| Intelligent Systems & Generative AI | Predictive Modeling & Classification |
+| **DEEP LEARNING** | **NATURAL LANGUAGE PROCESSING** |
+| CNNs, LSTMs & Neural Networks | LLMs & Text Processing |
+| **RETRIEVAL SYSTEMS** | **ROBOTICS** |
+| RAG, Embeddings & Semantic Search | Kinematics & Spatial Transformations |
+| **COMPUTER VISION** | **AI ENGINEERING** |
+| Image Processing & Visual Recognition | Practical AI Applications & Deployment |
 
 <div align="center">
 
@@ -350,72 +280,15 @@ Technologies and tools used across my development and learning journey.
 
 </div>
 
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
-
-**01 / ARTIFICIAL INTELLIGENCE**
-
-Intelligent Systems, Generative AI
-
-</td>
-<td width="50%" valign="top">
-
-**05 / RETRIEVAL-AUGMENTED GENERATION**
-
-Embeddings, Vector Retrieval, Document AI
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-**02 / MACHINE LEARNING**
-
-Predictive Modeling, Classification
-
-</td>
-<td width="50%" valign="top">
-
-**06 / ROBOTICS**
-
-Kinematics, Spatial Transformations
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-**03 / DEEP LEARNING**
-
-CNNs, LSTMs, Neural Networks
-
-</td>
-<td width="50%" valign="top">
-
-**07 / COMPUTER VISION**
-
-Image Processing, Visual Recognition
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-**04 / NATURAL LANGUAGE PROCESSING**
-
-LLMs, Text Processing, Semantic Search
-
-</td>
-<td width="50%" valign="top">
-
-**08 / AI ENGINEERING**
-
-APIs, Deployment, MLOps
-
-</td>
-</tr>
-</table>
+| **ARTIFICIAL INTELLIGENCE** | **RETRIEVAL-AUGMENTED GENERATION** |
+|:---|:---|
+| Intelligent Systems, Generative AI | Embeddings, Vector Retrieval, Document AI |
+| **MACHINE LEARNING** | **ROBOTICS** |
+| Predictive Modeling, Classification | Kinematics, Spatial Transformations |
+| **DEEP LEARNING** | **COMPUTER VISION** |
+| CNNs, LSTMs, Neural Networks | Image Processing, Visual Recognition |
+| **NATURAL LANGUAGE PROCESSING** | **AI ENGINEERING** |
+| LLMs, Text Processing, Semantic Search | APIs, Deployment, MLOps |
 
 ---
 
@@ -475,11 +348,9 @@ A snapshot of my coding activity and repository statistics.
 
 # CAREER & COLLABORATION
 
-</div>
-
-<p align="center">
 I'm interested in opportunities where I can contribute to building impactful intelligent systems.
-</p>
+
+</div>
 
 <table width="100%">
 <tr>
