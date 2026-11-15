@@ -320,29 +320,72 @@ Technologies and tools used across my development and learning journey.
 
 </div>
 
-**01 / ARTIFICIAL INTELLIGENCE**  
+<table align="center" width="85%">
+<tr>
+<td width="50%" valign="top">
+
+**01 / ARTIFICIAL INTELLIGENCE**
+
 Intelligent Systems, Generative AI
 
-**02 / MACHINE LEARNING**  
+</td>
+<td width="50%" valign="top">
+
+**02 / MACHINE LEARNING**
+
 Predictive Modeling, Classification
 
-**03 / DEEP LEARNING**  
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**03 / DEEP LEARNING**
+
 CNNs, LSTMs, Neural Networks
 
-**04 / NATURAL LANGUAGE PROCESSING**  
+</td>
+<td width="50%" valign="top">
+
+**04 / NATURAL LANGUAGE PROCESSING**
+
 LLMs, Text Processing, Semantic Search
 
-**05 / RETRIEVAL-AUGMENTED GENERATION**  
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**05 / RETRIEVAL-AUGMENTED GENERATION**
+
 Embeddings, Vector Retrieval, Document AI
 
-**06 / ROBOTICS**  
+</td>
+<td width="50%" valign="top">
+
+**06 / ROBOTICS**
+
 Kinematics, Spatial Transformations
 
-**07 / COMPUTER VISION**  
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**07 / COMPUTER VISION**
+
 Image Processing, Visual Recognition
 
-**08 / AI ENGINEERING**  
+</td>
+<td width="50%" valign="top">
+
+**08 / AI ENGINEERING**
+
 APIs, Deployment, MLOps
+
+</td>
+</tr>
+</table>
 
 ---
 
