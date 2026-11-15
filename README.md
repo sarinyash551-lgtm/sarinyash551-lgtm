@@ -1,29 +1,24 @@
- <div align="center">
 
-<h1>YASH SARIN</h1>
+<div align="center">
 
-<h3>AI & MACHINE LEARNING ENGINEER</h3>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:312E81,100:2563EB&height=220&section=header&text=YASH%20SARIN&fontSize=55&fontColor=FFFFFF&fontAlignY=38&desc=AI%20%26%20MACHINE%20LEARNING%20ENGINEER&descSize=17&descAlignY=58&animation=fadeIn" width="100%" alt="Yash Sarin - AI and Machine Learning Engineer"/>
 
-<p><strong>Building Intelligent Systems That Make an Impact</strong></p>
+### Building Intelligent Systems That Make an Impact
 
-<p>
-<strong>NLP</strong> &nbsp;·&nbsp;
-<strong>RAG</strong> &nbsp;·&nbsp;
-<strong>Deep Learning</strong> &nbsp;·&nbsp;
-<strong>Robotics</strong> &nbsp;·&nbsp;
-<strong>Generative AI</strong>
-</p>
+**NLP** &nbsp;·&nbsp; **RAG** &nbsp;·&nbsp; **Deep Learning** &nbsp;·&nbsp; **Robotics** &nbsp;·&nbsp; **Generative AI**
 
-<p>Turning complex data, language models, and mathematical concepts into practical AI solutions.</p>
+<br/>
+
+Turning complex data, language models, and mathematical concepts into practical AI solutions.
 
 <br/>
 
 <a href="https://www.linkedin.com/in/yash-sarin-700595412">
-<img src="https://img.shields.io/badge/LINKEDIN-Connect-2563EB?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <img src="https://img.shields.io/badge/LINKEDIN-Connect-2563EB?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 &nbsp;
 <a href="mailto:phdyash0@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-Get%20in%20Touch-7C3AED?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  <img src="https://img.shields.io/badge/EMAIL-Get%20in%20Touch-7C3AED?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 
 <br/><br/>
@@ -85,6 +80,7 @@ A Retrieval-Augmented Generation system for rice pest management, combining docu
 
 </td>
 </tr>
+
 <tr>
 <td width="50%" valign="top">
 
@@ -113,6 +109,7 @@ Pure Python implementation of robotics spatial transformations and mathematical 
 
 </td>
 </tr>
+
 <tr>
 <td width="50%" valign="top">
 
@@ -147,53 +144,25 @@ A convolutional neural network approach to bearing fault identification using vi
 
 ## ◈ TECHNICAL ARSENAL
 
-**01 / PROGRAMMING LANGUAGES**
+**01 / AI & MACHINE LEARNING**
 
 <p>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sqlite&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,keras&theme=dark" alt="Python, TensorFlow, PyTorch, Scikit-learn and Keras"/>
 </p>
 
-**02 / MACHINE LEARNING & DEEP LEARNING**
+**02 / DATA PROCESSING & NLP**
 
 <p>
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
-<img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white"/>
-<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=numpy,pandas&theme=dark" alt="NumPy and Pandas"/>
 </p>
 
-**03 / NLP, LLMs & RETRIEVAL**
+**03 / DEVELOPMENT & VISUALIZATION**
 
 <p>
-<img src="https://img.shields.io/badge/NLP-2563EB?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/LLMs-7C3AED?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/RAG-0891B2?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/FAISS-0E7490?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Prompt%20Engineering-6D28D9?style=for-the-badge"/>
+<img src="https://skillicons.dev/icons?i=git,github,jupyter,streamlit&theme=dark" alt="Git, GitHub, Jupyter and Streamlit"/>
 </p>
 
-**04 / DATA PROCESSING & EXPLAINABLE AI**
-
-<p>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/SHAP-5A189A?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Saliency%20Maps-4338CA?style=for-the-badge"/>
-</p>
-
-**05 / VISUALIZATION & DEVELOPMENT TOOLS**
-
-<p>
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
-<img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black"/>
-<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
-</p>
+**Additional Skills:** C++, SQL, FAISS, Prompt Engineering, SHAP, Saliency Maps, Matplotlib, Google Colab, Microsoft Excel.
 
 ---
 
@@ -262,6 +231,8 @@ I'm interested in opportunities where I can contribute to building impactful int
 ---
 
 <div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,50:312E81,100:0F172A&height=120&section=footer" width="100%" alt="Decorative footer"/>
 
 ### Thanks for visiting my profile! 👋
 
