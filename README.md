@@ -93,25 +93,18 @@ Evaluate the results
 
 </div>
 
-
 <table width="100%">
 <tr>
 <td width="50%" valign="top">
 
 <p align="center"><strong>ARTIFICIAL INTELLIGENCE</strong></p>
-
-<ul>
-<li>Intelligent Systems & Generative AI</li>
-</ul>
+<p align="center">Intelligent Systems & Generative AI</p>
 
 </td>
 <td width="50%" valign="top">
 
 <p align="center"><strong>MACHINE LEARNING</strong></p>
-
-<ul>
-<li>Predictive Modeling & Classification</li>
-</ul>
+<p align="center">Predictive Modeling & Classification</p>
 
 </td>
 </tr>
@@ -119,19 +112,13 @@ Evaluate the results
 <td width="50%" valign="top">
 
 <p align="center"><strong>DEEP LEARNING</strong></p>
-
-<ul>
-<li>CNNs, LSTMs & Neural Networks</li>
-</ul>
+<p align="center">CNNs, LSTMs & Neural Networks</p>
 
 </td>
 <td width="50%" valign="top">
 
 <p align="center"><strong>NATURAL LANGUAGE PROCESSING</strong></p>
-
-<ul>
-<li>LLMs & Text Processing</li>
-</ul>
+<p align="center">LLMs & Text Processing</p>
 
 </td>
 </tr>
@@ -139,19 +126,13 @@ Evaluate the results
 <td width="50%" valign="top">
 
 <p align="center"><strong>RETRIEVAL SYSTEMS</strong></p>
-
-<ul>
-<li>RAG, Embeddings & Semantic Search</li>
-</ul>
+<p align="center">RAG, Embeddings & Semantic Search</p>
 
 </td>
 <td width="50%" valign="top">
 
 <p align="center"><strong>ROBOTICS</strong></p>
-
-<ul>
-<li>Kinematics & Spatial Transformations</li>
-</ul>
+<p align="center">Kinematics & Spatial Transformations</p>
 
 </td>
 </tr>
@@ -159,25 +140,17 @@ Evaluate the results
 <td width="50%" valign="top">
 
 <p align="center"><strong>COMPUTER VISION</strong></p>
-
-<ul>
-<li>Image Processing & Visual Recognition</li>
-</ul>
+<p align="center">Image Processing & Visual Recognition</p>
 
 </td>
 <td width="50%" valign="top">
 
 <p align="center"><strong>AI ENGINEERING</strong></p>
-
-<ul>
-<li>Practical AI Applications & Deployment</li>
-</ul>
+<p align="center">Practical AI Applications & Deployment</p>
 
 </td>
 </tr>
 </table>
-
-
 
 <div align="center">
 
