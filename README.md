@@ -93,18 +93,19 @@ Evaluate the results
 
 </div>
 
+
 <table width="100%">
 <tr>
 <td width="50%" valign="top">
 
 <p align="center"><strong>ARTIFICIAL INTELLIGENCE</strong></p>
-<p align="center">Intelligent Systems & Generative AI</p>
+<p align="center">• &nbsp; Intelligent Systems & Generative AI</p>
 
 </td>
 <td width="50%" valign="top">
 
 <p align="center"><strong>MACHINE LEARNING</strong></p>
-<p align="center">Predictive Modeling & Classification</p>
+<p align="center">• &nbsp; Predictive Modeling & Classification</p>
 
 </td>
 </tr>
@@ -112,13 +113,13 @@ Evaluate the results
 <td width="50%" valign="top">
 
 <p align="center"><strong>DEEP LEARNING</strong></p>
-<p align="center">CNNs, LSTMs & Neural Networks</p>
+<p align="center">• &nbsp; CNNs, LSTMs & Neural Networks</p>
 
 </td>
 <td width="50%" valign="top">
 
 <p align="center"><strong>NATURAL LANGUAGE PROCESSING</strong></p>
-<p align="center">LLMs & Text Processing</p>
+<p align="center">• &nbsp; LLMs & Text Processing</p>
 
 </td>
 </tr>
@@ -126,13 +127,13 @@ Evaluate the results
 <td width="50%" valign="top">
 
 <p align="center"><strong>RETRIEVAL SYSTEMS</strong></p>
-<p align="center">RAG, Embeddings & Semantic Search</p>
+<p align="center">• &nbsp; RAG, Embeddings & Semantic Search</p>
 
 </td>
 <td width="50%" valign="top">
 
 <p align="center"><strong>ROBOTICS</strong></p>
-<p align="center">Kinematics & Spatial Transformations</p>
+<p align="center">• &nbsp; Kinematics & Spatial Transformations</p>
 
 </td>
 </tr>
@@ -140,17 +141,18 @@ Evaluate the results
 <td width="50%" valign="top">
 
 <p align="center"><strong>COMPUTER VISION</strong></p>
-<p align="center">Image Processing & Visual Recognition</p>
+<p align="center">• &nbsp; Image Processing & Visual Recognition</p>
 
 </td>
 <td width="50%" valign="top">
 
 <p align="center"><strong>AI ENGINEERING</strong></p>
-<p align="center">Practical AI Applications & Deployment</p>
+<p align="center">• &nbsp; Practical AI Applications & Deployment</p>
 
 </td>
 </tr>
 </table>
+
 
 <div align="center">
 
