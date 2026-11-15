@@ -1,59 +1,182 @@
 
+<!-- ===================================================== -->
+<!--                    YASH SARIN                          -->
+<!--              GITHUB PROFILE README                     -->
+<!-- ===================================================== -->
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1020,55:25245B,100:3157A4&height=210&section=header&text=YASH%20SARIN&fontSize=56&fontColor=FFFFFF&fontAlignY=38&desc=AI%20%26%20MACHINE%20LEARNING%20ENGINEER&descSize=16&descAlignY=60" width="100%" alt="Yash Sarin"/>
+<img src="https://capsule-render.vercel.app/api?type=wave&color=0:0F172A,50:312E81,100:2563EB&height=220&section=header&text=YASH%20SARIN&fontSize=55&fontColor=FFFFFF&fontAlignY=38" width="100%" alt="Yash Sarin - AI and Machine Learning Engineer"/>
 
 <br/>
 
-### Building intelligent systems that make an impact.
+# AI & MACHINE LEARNING ENGINEER
 
-**Artificial Intelligence** · **Machine Learning** · **NLP** · **RAG** · **Robotics**
+### Engineering Intelligence. Building What Matters.
+
+**NLP** &nbsp;·&nbsp; **RAG** &nbsp;·&nbsp; **Deep Learning** &nbsp;·&nbsp; **Robotics** &nbsp;·&nbsp; **Generative AI**
 
 <br/>
+
+Building practical intelligent systems through machine learning, language technologies and mathematical engineering.
+
+<br/><br/>
 
 <a href="https://www.linkedin.com/in/yash-sarin-700595412">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-2867B2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+<img src="https://img.shields.io/badge/LINKEDIN-LET'S%20CONNECT-2563EB?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 &nbsp;
 <a href="mailto:phdyash0@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Get%20in%20touch-6D5CE8?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
+<img src="https://img.shields.io/badge/EMAIL-GET%20IN%20TOUCH-7C3AED?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=3000&pause=1000&color=929BCE&center=true&vCenter=true&width=600&lines=Exploring+the+possibilities+of+AI;Turning+ideas+into+working+systems;Learning%2C+building%2C+and+iterating." alt="Introduction"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&duration=3000&pause=1000&color=818CF8&center=true&vCenter=true&width=650&lines=Building+Intelligent+AI+Systems;Exploring+Language+Models+%26+RAG;Engineering+Practical+Machine+Learning;Connecting+Mathematics+with+Intelligent+Systems" alt="Animated introduction"/>
 
 </div>
 
 ---
 
-## About
+<div align="center">
 
-I'm an **AI & Big Data graduate from Woosong University, South Korea**, interested in building intelligent systems that solve practical engineering and industrial problems.
+<sub>01 / THE PERSON BEHIND THE PROJECTS</sub>
 
-My work and learning sit at the intersection of machine learning, language technologies, mathematical modeling and software development.
+# ABOUT ME
+
+</div>
+
+I'm an **AI & Big Data graduate from Woosong University, South Korea**, passionate about developing intelligent systems that address real-world engineering and industrial challenges.
+
+My interests span the intersection of artificial intelligence, mathematical modeling and software development.
+
+I enjoy working across the complete development process:
+
+**Understanding the problem → Developing the model → Implementing the solution → Evaluating the results**
+
+### Areas of Focus
+
+| FIELD | INTEREST |
+|:---|:---|
+| Artificial Intelligence | Intelligent Systems & Generative AI |
+| Machine Learning | Predictive Modeling & Classification |
+| Deep Learning | CNNs, LSTMs & Neural Networks |
+| Natural Language Processing | LLMs & Text Processing |
+| Retrieval Systems | RAG, Embeddings & Semantic Search |
+| Robotics | Kinematics & Spatial Transformations |
+| Computer Vision | Image Processing & Visual Recognition |
+| AI Engineering | Practical AI Applications & Deployment |
+
+> *My philosophy: Build intelligent systems that are not just technically interesting, but genuinely useful.*
+
+---
+
+<div align="center">
+
+<sub>02 / SELECTED WORK</sub>
+
+# PROJECT SHOWCASE
+
+A collection of projects exploring AI, language processing, deep learning and robotics.
+
+</div>
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-**WHAT INTERESTS ME**
+### 01 — 📄 PaperMind AI
 
-- Applied Artificial Intelligence
-- Deep Learning
-- Natural Language Processing
-- Large Language Models
-- Retrieval-Augmented Generation
+**Research Intelligence**
+
+An AI-powered research paper assistant focused on intelligent document understanding and research workflows.
+
+**TECHNOLOGIES**
+
+<img src="https://img.shields.io/badge/LLMs-7C3AED?style=flat-square"/>
+<img src="https://img.shields.io/badge/NLP-2563EB?style=flat-square"/>
+<img src="https://img.shields.io/badge/RAG-0891B2?style=flat-square"/>
 
 </td>
 <td width="50%" valign="top">
 
-**HOW I APPROACH PROBLEMS**
+### 02 — 🌾 AgriAssist RAG
 
-- Understand the problem
-- Explore the right approach
-- Build and evaluate models
-- Turn results into practical solutions
+**Agricultural Intelligence**
+
+A Retrieval-Augmented Generation system for rice pest management, combining document retrieval with AI-generated responses.
+
+**TECHNOLOGIES**
+
+<img src="https://img.shields.io/badge/RAG-7C3AED?style=flat-square"/>
+<img src="https://img.shields.io/badge/FAISS-2563EB?style=flat-square"/>
+<img src="https://img.shields.io/badge/Streamlit-0891B2?style=flat-square"/>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 03 — 🤖 PUMA560 Simulator
+
+**Robotics & Kinematics**
+
+Robotics simulation implementing forward kinematics using Denavit–Hartenberg parameters.
+
+**TECHNOLOGIES**
+
+<img src="https://img.shields.io/badge/Python-2563EB?style=flat-square"/>
+<img src="https://img.shields.io/badge/Robotics-7C3AED?style=flat-square"/>
+<img src="https://img.shields.io/badge/Kinematics-0891B2?style=flat-square"/>
+
+</td>
+<td width="50%" valign="top">
+
+### 04 — 🦾 Robot Spatial Transformations
+
+**Mathematical Engineering**
+
+Pure Python implementation of robotics spatial transformations and mathematical operations without NumPy.
+
+**TECHNOLOGIES**
+
+<img src="https://img.shields.io/badge/Python-2563EB?style=flat-square"/>
+<img src="https://img.shields.io/badge/Linear_Algebra-7C3AED?style=flat-square"/>
+<img src="https://img.shields.io/badge/Robotics-0891B2?style=flat-square"/>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 05 — 🎬 IMDb Sentiment Analysis
+
+**Natural Language Processing**
+
+An LSTM-based deep learning model for binary sentiment classification using movie reviews.
+
+**TECHNOLOGIES**
+
+<img src="https://img.shields.io/badge/Python-2563EB?style=flat-square"/>
+<img src="https://img.shields.io/badge/LSTM-7C3AED?style=flat-square"/>
+<img src="https://img.shields.io/badge/NLP-0891B2?style=flat-square"/>
+
+</td>
+<td width="50%" valign="top">
+
+### 06 — ⚙️ CNN Bearing Fault Classification
+
+**Industrial Deep Learning**
+
+A convolutional neural network approach to bearing fault identification using vibration data.
+
+**TECHNOLOGIES**
+
+<img src="https://img.shields.io/badge/CNN-2563EB?style=flat-square"/>
+<img src="https://img.shields.io/badge/Deep_Learning-7C3AED?style=flat-square"/>
+<img src="https://img.shields.io/badge/Industrial_AI-0891B2?style=flat-square"/>
 
 </td>
 </tr>
@@ -61,80 +184,116 @@ My work and learning sit at the intersection of machine learning, language techn
 
 ---
 
-## Selected Projects
+<div align="center">
 
-A selection of work across intelligent applications, deep learning and robotics.
+<sub>03 / TOOLS & TECHNOLOGIES</sub>
+
+# TECHNICAL ARSENAL
+
+Technologies and tools used across my development and learning journey.
+
+</div>
+
+### 01 — AI & MACHINE LEARNING
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,cpp&theme=dark" alt="Python, TensorFlow, PyTorch, Scikit-learn and C++"/>
+</p>
+
+### 02 — DATA SCIENCE & INTELLIGENT SYSTEMS
+
+<p>
+<img src="https://img.shields.io/badge/NUMPY-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/PANDAS-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/FAISS-2563EB?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/NLP-7C3AED?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LLMs-312E81?style=for-the-badge"/>
+</p>
+
+### 03 — DEVELOPMENT & VERSION CONTROL
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github&theme=dark" alt="Git and GitHub"/>
+</p>
+
+### 04 — VISUALIZATION & RESEARCH TOOLS
+
+<p>
+<img src="https://img.shields.io/badge/STREAMLIT-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+<img src="https://img.shields.io/badge/MATPLOTLIB-11557C?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/JUPYTER-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+<img src="https://img.shields.io/badge/GOOGLE%20COLAB-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black"/>
+</p>
+
+### ADDITIONAL TECHNICAL SKILLS
+
+<img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square"/>
+<img src="https://img.shields.io/badge/KERAS-D00000?style=flat-square"/>
+<img src="https://img.shields.io/badge/SHAP-5A189A?style=flat-square"/>
+<img src="https://img.shields.io/badge/PROMPT%20ENGINEERING-4338CA?style=flat-square"/>
+<img src="https://img.shields.io/badge/SALIENCY%20MAPS-2563EB?style=flat-square"/>
+<img src="https://img.shields.io/badge/EXCEL-217346?style=flat-square"/>
+
+---
+
+<div align="center">
+
+<sub>04 / AREAS OF INTEREST</sub>
+
+# WHAT DRIVES MY CURIOSITY
+
+</div>
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### PaperMind AI
+**01 / ARTIFICIAL INTELLIGENCE**
 
-**Research paper assistant**
+Intelligent Systems, Generative AI
 
-An AI-powered assistant for document understanding and research workflows.
+---
 
-`LLMs` `NLP` `RAG`
+**02 / MACHINE LEARNING**
 
-</td>
-<td width="50%" valign="top">
+Predictive Modeling, Classification
 
-### AgriAssist RAG
+---
 
-**Agricultural knowledge assistant**
+**03 / DEEP LEARNING**
 
-A RAG-based system for rice pest management, combining document retrieval with AI-generated responses.
+CNNs, LSTMs, Neural Networks
 
-`RAG` `FAISS` `Streamlit`
+---
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+**04 / NATURAL LANGUAGE PROCESSING**
 
-### PUMA560 Simulator
-
-**Robotics and kinematics**
-
-Forward kinematics simulation using Denavit–Hartenberg parameters.
-
-`Python` `Robotics` `Kinematics`
+LLMs, Text Processing, Semantic Search
 
 </td>
 <td width="50%" valign="top">
 
-### Robot Spatial Transformations
+**05 / RETRIEVAL-AUGMENTED GENERATION**
 
-**Mathematical robotics**
+Embeddings, Vector Retrieval, Document AI
 
-Pure Python implementation of spatial transformations and robotics mathematics without NumPy.
+---
 
-`Python` `Linear Algebra` `Robotics`
+**06 / ROBOTICS**
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+Kinematics, Spatial Transformations
 
-### IMDb Sentiment Analysis
+---
 
-**Natural language processing**
+**07 / COMPUTER VISION**
 
-An LSTM-based binary sentiment classification model trained on movie reviews.
+Image Processing, Visual Recognition
 
-`Python` `LSTM` `NLP`
+---
 
-</td>
-<td width="50%" valign="top">
+**08 / AI ENGINEERING**
 
-### CNN Bearing Fault Classification
-
-**Industrial deep learning**
-
-A convolutional neural network for bearing fault identification using vibration data.
-
-`CNN` `Deep Learning` `Industrial AI`
+APIs, Deployment, MLOps
 
 </td>
 </tr>
@@ -142,98 +301,114 @@ A convolutional neural network for bearing fault identification using vibration 
 
 ---
 
-## Technical Skills
+<div align="center">
 
-### Languages & Frameworks
+<sub>05 / THE LEARNING CURVE</sub>
 
-<p>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
-<img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white"/>
-<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/>
-</p>
+# CURRENTLY EXPLORING
 
-### Machine Learning & AI
-
-<p>
-<img src="https://img.shields.io/badge/Deep%20Learning-5146A6?style=flat-square"/>
-<img src="https://img.shields.io/badge/CNN-5146A6?style=flat-square"/>
-<img src="https://img.shields.io/badge/LSTM-5146A6?style=flat-square"/>
-<img src="https://img.shields.io/badge/Transfer%20Learning-5146A6?style=flat-square"/>
-<img src="https://img.shields.io/badge/NLP-236B8E?style=flat-square"/>
-<img src="https://img.shields.io/badge/LLMs-236B8E?style=flat-square"/>
-<img src="https://img.shields.io/badge/RAG-236B8E?style=flat-square"/>
-<img src="https://img.shields.io/badge/FAISS-236B8E?style=flat-square"/>
-<img src="https://img.shields.io/badge/Prompt%20Engineering-236B8E?style=flat-square"/>
-</p>
-
-### Data, Explainability & Visualization
-
-<p>
-<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/SHAP-6A4C93?style=flat-square"/>
-<img src="https://img.shields.io/badge/Saliency%20Maps-6A4C93?style=flat-square"/>
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square"/>
-<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/>
-</p>
-
-### Development Tools
-
-<p>
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white"/>
-<img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=black"/>
-<img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white"/>
-</p>
-
----
-
-## Currently Exploring
+</div>
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Large%20Language%20Models-282653?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/AI%20Agents-34316F?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Advanced%20RAG-3D4388?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/01-Large%20Language%20Models-312E81?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/02-AI%20Agents-4338CA?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/03-Advanced%20RAG-4F46E5?style=for-the-badge"/>
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/Computer%20Vision-245B83?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/MLOps-245B83?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/AI%20Deployment-245B83?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/04-Computer%20Vision-2563EB?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/05-MLOps-0369A1?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/06-AI%20Deployment-0E7490?style=for-the-badge"/>
 
 </div>
 
 ---
 
-## Beyond the Code
+<div align="center">
 
-I'm interested in opportunities where I can contribute to:
+<sub>06 / DEVELOPMENT ACTIVITY</sub>
 
-- AI and machine learning engineering
-- Deep learning and NLP applications
-- Generative AI, LLMs and RAG systems
-- AI agents and intelligent applications
-- Applied AI research
-- Robotics and intelligent systems
+# GITHUB ANALYTICS
 
-**Open to meaningful collaborations, research opportunities and AI engineering roles.**
+A snapshot of my coding activity and repository statistics.
+
+</div>
 
 <div align="center">
 
-<a href="https://github.com/sarinyash551-lgtm">
-  <img src="https://img.shields.io/badge/Explore%20my%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore my GitHub"/>
-</a>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=sarinyash551-lgtm&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics"/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarinyash551-lgtm&layout=compact&theme=tokyonight&hide_border=true" alt="Most used programming languages"/>
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3157A4,55:25245B,100:0B1020&height=110&section=footer" width="100%" alt="Footer"/>
+<img width="75%" src="https://streak-stats.demolab.com?user=sarinyash551-lgtm&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>
 
-**Always learning. Always building.**
+</div>
+
+---
+
+<div align="center">
+
+<sub>07 / FUTURE OPPORTUNITIES</sub>
+
+# CAREER & COLLABORATION
+
+</div>
+
+I'm interested in opportunities where I can contribute to building impactful intelligent systems.
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### ENGINEERING
+
+- AI & Machine Learning Engineering
+- Deep Learning and NLP
+- Generative AI and LLM Applications
+
+</td>
+<td width="50%" valign="top">
+
+### RESEARCH & DEVELOPMENT
+
+- RAG and AI Agent Development
+- Applied AI Research
+- Robotics and Intelligent Systems
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/OPEN%20TO-COLLABORATION-2563EB?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/INTERESTED%20IN-AI%20OPPORTUNITIES-7C3AED?style=for-the-badge"/>
+
+<br/><br/>
+
+**Open to meaningful collaborations, research opportunities, and AI engineering roles.**
+
+</div>
+
+---
+
+<!-- ===================================================== -->
+<!--                       FOOTER                           -->
+<!-- ===================================================== -->
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,50:312E81,100:0F172A&height=120&section=footer" width="100%" alt="Decorative footer"/>
+
+### Thanks for visiting my profile! 👋
+
+**Always Learning · Always Building · Always Exploring**
+
+<br/>
+
+<sub>Designed with intention. Built with curiosity.</sub>
 
 </div>
