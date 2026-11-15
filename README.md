@@ -36,9 +36,19 @@ Building practical intelligent systems through machine learning, language techno
 
 </div>
 
-I'm an **Artificial Intelligence graduate from Woosong University, South Korea**, passionate about developing intelligent systems that address real-world engineering and industrial challenges.
+<div align="center">
 
-My interests span the intersection of artificial intelligence, mathematical modeling and software development.
+**Artificial Intelligence Graduate · Woosong University, South Korea**
+
+I'm passionate about turning ideas into practical intelligent systems. I enjoy exploring how machine learning, language technologies and mathematical engineering can solve meaningful real-world problems.
+
+My interests span **NLP, Deep Learning, RAG and Robotics** — from building intelligent document workflows to developing models for industrial applications and implementing robotic kinematics in Python.
+
+</div>
+
+<hr/>
+
+<div align="center">
 
 <hr/>
 
