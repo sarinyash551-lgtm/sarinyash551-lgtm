@@ -46,27 +46,19 @@ My interests span the intersection of artificial intelligence, mathematical mode
 
 <div align="center">
 
-**01 — UNDERSTAND**
+**01 — UNDERSTAND** · Understand the problem
 
-Understand the problem
+**→**
 
-↓
+**02 — DEVELOP** · Develop the model
 
-**02 — DEVELOP**
+**→**
 
-Develop the model
+**03 — IMPLEMENT** · Implement the solution
 
-↓
+**→**
 
-**03 — IMPLEMENT**
-
-Implement the solution
-
-↓
-
-**04 — EVALUATE**
-
-Evaluate the results
+**04 — EVALUATE** · Evaluate the results
 
 </div>
 
@@ -356,48 +348,51 @@ A snapshot of my coding activity and repository statistics.
 
 ---
 
+<div align="center">
 
+# CAREER & COLLABORATION
 
+I'm interested in opportunities where I can contribute to building impactful intelligent systems.
 
-
+</div>
 
 <table width="100%">
 <tr>
-<td width="40%" valign="top" align="left">
+<td width="50%" valign="top">
 
 <h3>ENGINEERING</h3>
 
-AI & Machine Learning Engineering
-
-<br/><br/>
-
-Deep Learning and NLP
-
-<br/><br/>
-
-Generative AI and LLM Applications
+<ul>
+<li>AI & Machine Learning Engineering</li>
+<li>Deep Learning and NLP</li>
+<li>Generative AI and LLM Applications</li>
+</ul>
 
 </td>
-<td width="60%" valign="top" align="left">
+<td width="50%" valign="top">
 
 <h3>RESEARCH &amp; DEVELOPMENT</h3>
 
-RAG and AI Agent Development
-
-<br/><br/>
-
-Applied AI Research
-
-<br/><br/>
-
-Robotics and Intelligent Systems
+<ul>
+<li>RAG and AI Agent Development</li>
+<li>Applied AI Research</li>
+<li>Robotics and Intelligent Systems</li>
+</ul>
 
 </td>
 </tr>
 </table>
 
+<div align="center">
 
+<img src="https://img.shields.io/badge/OPEN%20TO-COLLABORATION-2563EB?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/INTERESTED%20IN-AI%20OPPORTUNITIES-7C3AED?style=for-the-badge"/>
 
+<br/><br/>
+
+**Open to meaningful collaborations, research opportunities, and AI engineering roles.**
+
+</div>
 
 ---
 
