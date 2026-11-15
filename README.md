@@ -1,137 +1,142 @@
  <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:312E81,100:2563EB&height=220&section=header&text=YASH%20SARIN&fontSize=55&fontColor=FFFFFF&fontAlignY=38&desc=AI%20%26%20MACHINE%20LEARNING%20ENGINEER&descSize=17&descAlignY=58&animation=fadeIn" width="100%" alt="Yash Sarin - AI and Machine Learning Engineer"/>
+# YASH SARIN
 
-### Building Intelligent Systems That Make an Impact
+### M.S. Artificial Intelligence Graduate
 
-**NLP** &nbsp;·&nbsp; **RAG** &nbsp;·&nbsp; **Deep Learning** &nbsp;·&nbsp; **Robotics** &nbsp;·&nbsp; **Generative AI**
+**AI & Machine Learning · Python · C++ · NLP · Robotics**
 
-<br/>
-
-Turning complex data, language models, and mathematical concepts into practical AI solutions.
+Building intelligent systems through machine learning, language processing, and mathematical engineering.
 
 <br/>
 
 <a href="https://www.linkedin.com/in/yash-sarin-700595412">
-<img src="https://img.shields.io/badge/LINKEDIN-Connect-2563EB?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+<img src="https://img.shields.io/badge/LINKEDIN-CONNECT-2563EB?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 &nbsp;
 <a href="mailto:phdyash0@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-Get%20in%20Touch-7C3AED?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+<img src="https://img.shields.io/badge/EMAIL-GET%20IN%20TOUCH-7C3AED?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=818CF8&center=true&vCenter=true&width=600&lines=Developing+Intelligent+AI+Systems;Exploring+LLMs+%26+Retrieval+Systems;Building+Practical+Machine+Learning+Solutions;Engineering+the+Future+with+AI" alt="Typing introduction"/>
+<img src="https://img.shields.io/badge/PYTHON-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
+<img src="https://img.shields.io/badge/MACHINE%20LEARNING-7C3AED?style=flat-square"/>
+<img src="https://img.shields.io/badge/ARTIFICIAL%20INTELLIGENCE-2563EB?style=flat-square"/>
 
 </div>
 
 ---
 
-## ◈ ABOUT ME
+## 🧠 PROFILE
 
-I'm an **AI & Big Data graduate from Woosong University, South Korea**, passionate about building intelligent systems that solve real-world engineering and industrial problems.
+M.S. in **Artificial Intelligence from Woosong University, South Korea (GPA: 4.0/4.5)** with hands-on experience in Python, C++, machine learning, and applied AI development.
 
-My interests sit at the intersection of:
+My work includes building end-to-end NLP pipelines, developing CNN-based vibration-signal fault diagnosis models, implementing Retrieval-Augmented Generation systems, and developing robotics kinematics tools using pure Python.
 
-- 🧠 **Artificial Intelligence & Deep Learning**
-- 💬 **Natural Language Processing & LLMs**
-- 🔎 **Retrieval-Augmented Generation**
-- 🤖 **AI Agents & Generative AI**
-- 🦾 **Robotics & Mathematical Modeling**
-- 👁️ **Computer Vision**
-- ⚙️ **AI Engineering & Deployment**
-
-I enjoy taking ideas from mathematical foundations to model development, implementation, and practical applications.
-
-> **My philosophy:** Build intelligent systems that are not only technically interesting but genuinely useful.
+I'm particularly interested in the intersection of **AI engineering, software development, test automation, and intelligent systems**.
 
 ---
 
-## ◈ SELECTED PROJECTS
+## 🚀 FEATURED PROJECTS
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-<h3>📄 PaperMind AI</h3>
+### 01. Information Acquisition & Automated Analysis System (IAAS)
 
-An AI-powered research paper assistant focused on intelligent document understanding and research workflows.
+An end-to-end NLP system for collecting, processing, storing, and reporting AI research data.
 
-**TECHNOLOGIES**
+**Key Contributions**
+- Implemented Named Entity Recognition (NER).
+- Developed text classification and summarization.
+- Built keyword extraction functionality.
+- Designed SQL-based storage and reporting.
+- Created a dashboard for keyword trends, summaries, and topic labels.
 
-<img src="https://img.shields.io/badge/LLMs-7C3AED?style=flat-square"/>
-<img src="https://img.shields.io/badge/NLP-2563EB?style=flat-square"/>
-<img src="https://img.shields.io/badge/RAG-0891B2?style=flat-square"/>
-
-</td>
-<td width="50%" valign="top">
-
-<h3>🌾 AgriAssist RAG</h3>
-
-A Retrieval-Augmented Generation system for rice pest management, combining document retrieval with AI-generated responses.
-
-**TECHNOLOGIES**
-
-<img src="https://img.shields.io/badge/RAG-7C3AED?style=flat-square"/>
-<img src="https://img.shields.io/badge/FAISS-2563EB?style=flat-square"/>
-<img src="https://img.shields.io/badge/Streamlit-0891B2?style=flat-square"/>
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-<h3>🤖 PUMA560 Simulator</h3>
-
-Robotics simulation implementing forward kinematics using Denavit–Hartenberg parameters.
-
-**TECHNOLOGIES**
-
-<img src="https://img.shields.io/badge/Python-2563EB?style=flat-square"/>
-<img src="https://img.shields.io/badge/Robotics-7C3AED?style=flat-square"/>
-<img src="https://img.shields.io/badge/Kinematics-0891B2?style=flat-square"/>
+**Stack:** Python · SQL · NLP
 
 </td>
 <td width="50%" valign="top">
 
-<h3>🦾 Robot Spatial Transformations</h3>
+### 02. Transfer Learning-Based Fault Diagnosis with Explainable AI
 
-Pure Python implementation of robotics spatial transformations and mathematical operations without NumPy.
+Team project focused on identifying faults in fan and pump datasets using transfer-learning models.
 
-**TECHNOLOGIES**
+**Key Contributions**
+- Compared transfer-learning models.
+- Evaluated results using confusion matrices and classification reports.
+- Analyzed training performance through loss curves.
+- Applied SHAP and saliency maps to explain model predictions.
+- Prepared technical documentation and presentations.
 
-<img src="https://img.shields.io/badge/Python-2563EB?style=flat-square"/>
-<img src="https://img.shields.io/badge/Linear_Algebra-7C3AED?style=flat-square"/>
-<img src="https://img.shields.io/badge/Robotics-0891B2?style=flat-square"/>
+**Stack:** Python · Deep Learning · Transfer Learning · SHAP
 
 </td>
 </tr>
+
 <tr>
 <td width="50%" valign="top">
 
-<h3>🎬 IMDb Sentiment Analysis</h3>
+### 03. CNN Bearing Fault Classification
 
-An LSTM-based deep learning model for binary sentiment classification using movie reviews.
+Deep learning system for diagnosing rolling-bearing faults using vibration-signal data.
 
-**TECHNOLOGIES**
+**Key Contributions**
+- Designed a CNN-based fault diagnosis model.
+- Developed the data preprocessing pipeline.
+- Implemented model training and evaluation.
+- Applied deep learning to predictive maintenance.
 
-<img src="https://img.shields.io/badge/Python-2563EB?style=flat-square"/>
-<img src="https://img.shields.io/badge/LSTM-7C3AED?style=flat-square"/>
-<img src="https://img.shields.io/badge/NLP-0891B2?style=flat-square"/>
+**Stack:** Python · TensorFlow · CNN
 
 </td>
 <td width="50%" valign="top">
 
-<h3>⚙️ CNN Bearing Fault Classification</h3>
+### 04. AgriAssist RAG System
 
-A convolutional neural network approach to bearing fault identification using vibration data.
+A Retrieval-Augmented Generation system for agricultural knowledge retrieval and question answering.
 
-**TECHNOLOGIES**
+**Key Contributions**
+- Developed semantic search for agricultural knowledge.
+- Integrated FAISS vector indexing.
+- Implemented document retrieval.
+- Built a Streamlit interface for contextual AI responses.
 
-<img src="https://img.shields.io/badge/CNN-2563EB?style=flat-square"/>
-<img src="https://img.shields.io/badge/Deep_Learning-7C3AED?style=flat-square"/>
-<img src="https://img.shields.io/badge/Industrial_AI-0891B2?style=flat-square"/>
+**Stack:** Python · FAISS · NLP · Streamlit
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 05. Robotics Kinematics Toolkit (PUMA560)
+
+A pure Python robotics implementation focused on forward kinematics and mathematical transformations.
+
+**Key Contributions**
+- Simulated PUMA560 forward kinematics.
+- Applied Denavit–Hartenberg parameters.
+- Implemented matrix mathematics and rotations.
+- Computed end-effector pose using homogeneous transformations.
+
+**Stack:** Python · Linear Algebra · Robotics
+
+</td>
+<td width="50%" valign="top">
+
+### 🔬 Technical Interests
+
+- Large Language Models
+- Retrieval-Augmented Generation
+- Explainable AI
+- Deep Learning
+- Robotics and Kinematics
+- Software Engineering
+- Test Automation
 
 </td>
 </tr>
@@ -139,98 +144,134 @@ A convolutional neural network approach to bearing fault identification using vi
 
 ---
 
-## ◈ TECHNICAL ARSENAL
+## 🛠️ TECHNICAL SKILLS
 
-**01 / AI & MACHINE LEARNING**
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn&theme=dark" alt="AI and machine learning technologies"/>
-</p>
-
-**02 / DEVELOPMENT & INFRASTRUCTURE**
+### Programming Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=fastapi,git,github,docker,linux,vscode&theme=dark" alt="Development tools"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sqlite&logoColor=white"/>
 </p>
 
-**03 / DATABASES & COMPUTER VISION**
+### Machine Learning & Deep Learning
 
 <p>
-<img src="https://skillicons.dev/icons?i=mysql,sqlite,opencv,anaconda&theme=dark" alt="Database and computer vision tools"/>
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+<img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white"/>
+<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+</p>
+
+### NLP, LLMs & Retrieval Systems
+
+<p>
+<img src="https://img.shields.io/badge/NLP-2563EB?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LLMs-7C3AED?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/RAG-0891B2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/FAISS-0E7490?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Prompt%20Engineering-6D28D9?style=for-the-badge"/>
+</p>
+
+### Data Processing & Explainable AI
+
+<p>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/SHAP-5A189A?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Saliency%20Maps-4338CA?style=for-the-badge"/>
+</p>
+
+### Visualization & Development Tools
+
+<p>
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+<img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black"/>
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
 </p>
 
 ---
 
-## ◈ AREAS OF EXPERTISE & INTEREST
+## 💼 PROFESSIONAL EXPERIENCE
 
-| DOMAIN | FOCUS |
-|:--|:--|
-| Artificial Intelligence | Intelligent Systems, Generative AI |
-| Machine Learning | Predictive Modeling, Classification |
-| Deep Learning | CNNs, LSTMs, Neural Networks |
-| NLP | LLMs, Text Processing, Semantic Search |
-| RAG | Embeddings, Vector Retrieval, Document AI |
-| Robotics | Kinematics, Spatial Transformations |
-| Computer Vision | Image Processing, Visual Recognition |
-| AI Engineering | APIs, Deployment, MLOps |
+### Administrative Teaching Assistant — International Students
 
----
+**Woosong University | Daejeon, South Korea**
 
-## ◈ CURRENTLY EXPLORING
+<sub>January 2026</sub>
 
-<div align="center">
+- Provided academic coordination and support for international exchange students.
+- Mentored students and facilitated communication with faculty.
+- Organized logistics for industrial and field visits.
 
-<img src="https://img.shields.io/badge/01-Large%20Language%20Models-312E81?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/02-AI%20Agents-4338CA?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/03-Advanced%20RAG-4F46E5?style=for-the-badge"/>
+### Administrative Teaching Assistant — Entrepreneurship Program
 
-<br/>
+**Woosong University | Daejeon, South Korea**
 
-<img src="https://img.shields.io/badge/04-Computer%20Vision-2563EB?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/05-MLOps-0369A1?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/06-AI%20Deployment-0E7490?style=for-the-badge"/>
+<sub>March 2025 – June 2025</sub>
 
-</div>
+- Provided academic and administrative support to program students.
+- Maintained attendance records and academic documentation.
+- Coordinated assignment submissions and grading records between faculty and university platforms.
+- Mentored students and organized industrial and field visits.
 
 ---
 
-## ◈ GITHUB ANALYTICS
+## 🎓 EDUCATION
 
-<div align="center">
+**M.S. in Artificial Intelligence**
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=sarinyash551-lgtm&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics"/>
+Woosong University – Endicott College  
+Daejeon, South Korea · 2026
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarinyash551-lgtm&layout=compact&theme=tokyonight&hide_border=true" alt="Most used programming languages"/>
+<sub>GPA: 4.0 / 4.5 (94.67%)</sub>
 
-<br/><br/>
+**Bachelor of Computer Applications**
 
-<img width="70%" src="https://streak-stats.demolab.com?user=sarinyash551-lgtm&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>
-
-</div>
+Institute of Management Studies (IMS)  
+Noida, India · 2023
 
 ---
 
-## ◈ CAREER & COLLABORATION
+## 📜 CERTIFICATION
 
-I'm interested in opportunities where I can contribute to building impactful intelligent systems.
+**Information Security Certified Professional (ISCP)**
+
+Krademy
+
+---
+
+## 🌍 LANGUAGES
+
+| Language | Proficiency |
+|---|---|
+| English | Fluent |
+| Hindi | Native |
+| Korean | Elementary |
+
+---
+
+## 🎯 CAREER INTERESTS
+
+Interested in opportunities involving:
 
 - AI & Machine Learning Engineering
-- Deep Learning and NLP
-- Generative AI and LLM Applications
-- RAG and AI Agent Development
-- Applied AI Research
-- Robotics and Intelligent Systems
-
-**Open to meaningful collaborations, research opportunities, and AI engineering roles.**
+- Software Engineering
+- Test Automation
+- NLP & Generative AI
+- Deep Learning & Applied Research
+- Intelligent Systems & Robotics
 
 ---
 
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,50:312E81,100:0F172A&height=120&section=footer" width="100%" alt="Decorative footer"/>
 
 ### Thanks for visiting my profile! 👋
 
-**Always Learning · Always Building · Always Exploring**
+**Building · Learning · Innovating**
 
 </div>
