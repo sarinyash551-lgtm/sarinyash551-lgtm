@@ -41,32 +41,39 @@ I'm an **Artificial Intelligence graduate from Woosong University, South Korea**
 
 My interests span the intersection of artificial intelligence, mathematical modeling and software development.
 
+
+<hr/>
+
+<div align="center">
+
 ### MY APPROACH
+
+</div>
 
 <table width="100%">
 <tr>
-<td width="25%" align="center" valign="top">
+<td width="25%" align="center" valign="middle">
 
 **01 — UNDERSTAND**
 
 Understand the problem
 
 </td>
-<td width="25%" align="center" valign="top">
+<td width="25%" align="center" valign="middle">
 
 **02 — DEVELOP**
 
 Develop the model
 
 </td>
-<td width="25%" align="center" valign="top">
+<td width="25%" align="center" valign="middle">
 
 **03 — IMPLEMENT**
 
 Implement the solution
 
 </td>
-<td width="25%" align="center" valign="top">
+<td width="25%" align="center" valign="middle">
 
 **04 — EVALUATE**
 
@@ -76,74 +83,83 @@ Evaluate the results
 </tr>
 </table>
 
+<br/>
+
+<hr/>
+
+<div align="center">
+
 ### AREAS OF FOCUS
+
+</div>
 
 <table width="100%">
 <tr>
-<td width="50%" valign="top">
+<td width="50%" align="center" valign="middle">
 
-**ARTIFICIAL INTELLIGENCE**
+• **ARTIFICIAL INTELLIGENCE**
 
 Intelligent Systems & Generative AI
 
 </td>
-<td width="50%" valign="top">
+<td width="50%" align="center" valign="middle">
 
-**MACHINE LEARNING**
+• **MACHINE LEARNING**
 
 Predictive Modeling & Classification
 
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top">
+<td width="50%" valign="middle">
 
-**DEEP LEARNING**
+- **DEEP LEARNING**
 
-CNNs, LSTMs & Neural Networks
-
-</td>
-<td width="50%" valign="top">
-
-**NATURAL LANGUAGE PROCESSING**
-
-LLMs & Text Processing
+  CNNs, LSTMs & Neural Networks
 
 </td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+<td width="50%" valign="middle">
 
-**RETRIEVAL SYSTEMS**
+- **NATURAL LANGUAGE PROCESSING**
 
-RAG, Embeddings & Semantic Search
-
-</td>
-<td width="50%" valign="top">
-
-**ROBOTICS**
-
-Kinematics & Spatial Transformations
+  LLMs & Text Processing
 
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top">
+<td width="50%" valign="middle">
 
-**COMPUTER VISION**
+- **RETRIEVAL SYSTEMS**
 
-Image Processing & Visual Recognition
+  RAG, Embeddings & Semantic Search
 
 </td>
-<td width="50%" valign="top">
+<td width="50%" valign="middle">
 
-**AI ENGINEERING**
+- **ROBOTICS**
 
-Practical AI Applications & Deployment
+  Kinematics & Spatial Transformations
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="middle">
+
+- **COMPUTER VISION**
+
+  Image Processing & Visual Recognition
+
+</td>
+<td width="50%" valign="middle">
+
+- **AI ENGINEERING**
+
+  Practical AI Applications & Deployment
 
 </td>
 </tr>
 </table>
+
 
 <div align="center">
 
