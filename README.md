@@ -275,42 +275,43 @@ A convolutional neural network approach to bearing fault identification using vi
 
 Technologies and tools used across my development and learning journey.
 
-</div>
+
+<div align="center">
 
 ### 01 — AI & MACHINE LEARNING
 
-<p>
 <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,cpp&theme=dark" alt="Python, TensorFlow, PyTorch, Scikit-learn and C++"/>
-</p>
 
 ### 02 — DATA SCIENCE & INTELLIGENT SYSTEMS
 
-<p>
 <img src="https://img.shields.io/badge/NUMPY-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
 <img src="https://img.shields.io/badge/PANDAS-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
 <img src="https://img.shields.io/badge/FAISS-2563EB?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/NLP-7C3AED?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/LLMs-312E81?style=for-the-badge"/>
-</p>
 
 ### 03 — DEVELOPMENT & VERSION CONTROL
 
-<p>
 <img src="https://skillicons.dev/icons?i=git,github&theme=dark" alt="Git and GitHub"/>
-</p>
 
 ### 04 — VISUALIZATION & RESEARCH TOOLS
 
-<p>
 <img src="https://img.shields.io/badge/STREAMLIT-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
 <img src="https://img.shields.io/badge/MATPLOTLIB-11557C?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/JUPYTER-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
 <img src="https://img.shields.io/badge/GOOGLE%20COLAB-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black"/>
-</p>
 
 ### ADDITIONAL TECHNICAL SKILLS
 
-<p><img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square"/> <img src="https://img.shields.io/badge/KERAS-D00000?style=flat-square"/> <img src="https://img.shields.io/badge/SHAP-5A189A?style=flat-square"/> <img src="https://img.shields.io/badge/PROMPT%20ENGINEERING-4338CA?style=flat-square"/> <img src="https://img.shields.io/badge/SALIENCY%20MAPS-2563EB?style=flat-square"/> <img src="https://img.shields.io/badge/EXCEL-217346?style=flat-square"/></p>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square"/>
+<img src="https://img.shields.io/badge/KERAS-D00000?style=flat-square"/>
+<img src="https://img.shields.io/badge/SHAP-5A189A?style=flat-square"/>
+<img src="https://img.shields.io/badge/PROMPT%20ENGINEERING-4338CA?style=flat-square"/>
+<img src="https://img.shields.io/badge/SALIENCY%20MAPS-2563EB?style=flat-square"/>
+<img src="https://img.shields.io/badge/EXCEL-217346?style=flat-square"/>
+
+</div>
+
 
 ---
 
