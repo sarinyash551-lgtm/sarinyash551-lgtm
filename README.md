@@ -358,6 +358,7 @@ A snapshot of my coding activity and repository statistics.
 
 
 
+
 <div align="center">
 
 # CAREER & COLLABORATION
@@ -399,6 +400,7 @@ I'm interested in opportunities where I can contribute to building impactful int
 **Open to meaningful collaborations, research opportunities, and AI engineering roles.**
 
 </div>
+
 
 
 
