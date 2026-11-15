@@ -104,8 +104,6 @@ Evaluate the results
 
 <div align="center">
 
-<sub>02 / SELECTED WORK</sub>
-
 # PROJECT SHOWCASE
 
 A collection of projects exploring AI, language processing, deep learning and robotics.
@@ -267,8 +265,6 @@ Technologies and tools used across my development and learning journey.
 
 <div align="center">
 
-<sub>04 / AREAS OF INTEREST</sub>
-
 # WHAT DRIVES MY CURIOSITY
 
 </div>
@@ -332,8 +328,6 @@ APIs, Deployment, MLOps
 
 <div align="center">
 
-<sub>05 / THE LEARNING CURVE</sub>
-
 # CURRENTLY EXPLORING
 
 </div>
@@ -355,8 +349,6 @@ APIs, Deployment, MLOps
 ---
 
 <div align="center">
-
-<sub>06 / DEVELOPMENT ACTIVITY</sub>
 
 # GITHUB ANALYTICS
 
@@ -381,8 +373,6 @@ A snapshot of my coding activity and repository statistics.
 ---
 
 <div align="center">
-
-<sub>07 / FUTURE OPPORTUNITIES</sub>
 
 # CAREER & COLLABORATION
 
@@ -428,14 +418,6 @@ I'm interested in opportunities where I can contribute to building impactful int
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,50:312E81,100:0F172A&height=120&section=footer" width="100%" alt="Decorative footer"/>
-
-### Thanks for visiting my profile! 👋
-
-**Always Learning · Always Building · Always Exploring**
-
-<br/>
-
-<sub>Designed with intention. Built with curiosity.</sub>
+<img src="https://capsule-render.vercel.app/api?type=wave&color=0:0F172A,50:312E81,100:2563EB&height=180&section=footer&text=THANKS%20FOR%20VISITING&fontSize=30&fontColor=FFFFFF&fontAlignY=40&desc=Always%20Learning%20%C2%B7%20Always%20Building%20%C2%B7%20Always%20Exploring&descSize=14&descAlignY=62" width="100%" alt="Thanks for visiting - Yash Sarin"/>
 
 </div>
