@@ -350,6 +350,7 @@ A snapshot of my coding activity and repository statistics.
 
 
 
+
 <div align="center">
 
 # CAREER & COLLABORATION
@@ -358,63 +359,28 @@ I'm interested in opportunities where I can contribute to building impactful int
 
 </div>
 
-<table width="100%" border="0">
+<table width="100%">
 <tr>
-<td width="48%" align="center" valign="middle">
+<td width="50%" valign="top">
 
-<strong>ENGINEERING</strong>
+<h3 align="center">ENGINEERING</h3>
 
-</td>
-<td width="4%" align="center" valign="middle">
-│
-</td>
-<td width="48%" align="center" valign="middle">
-
-<strong>RESEARCH &amp; DEVELOPMENT</strong>
+<ul>
+<li>AI &amp; Machine Learning Engineering</li>
+<li>Deep Learning and NLP</li>
+<li>Generative AI and LLM Applications</li>
+</ul>
 
 </td>
-</tr>
-<tr>
-<td colspan="3" align="center">
-<hr/>
-</td>
-</tr>
-<tr>
-<td width="48%" valign="top">
+<td width="50%" valign="top">
 
-• &nbsp; AI & Machine Learning Engineering
+<h3 align="center">RESEARCH &amp; DEVELOPMENT</h3>
 
-</td>
-<td width="4%" align="center">│</td>
-<td width="48%" valign="top">
-
-• &nbsp; RAG and AI Agent Development
-
-</td>
-</tr>
-<tr>
-<td width="48%" valign="top">
-
-• &nbsp; Deep Learning and NLP
-
-</td>
-<td width="4%" align="center">│</td>
-<td width="48%" valign="top">
-
-• &nbsp; Applied AI Research
-
-</td>
-</tr>
-<tr>
-<td width="48%" valign="top">
-
-• &nbsp; Generative AI and LLM Applications
-
-</td>
-<td width="4%" align="center">│</td>
-<td width="48%" valign="top">
-
-• &nbsp; Robotics and Intelligent Systems
+<ul>
+<li>RAG and AI Agent Development</li>
+<li>Applied AI Research</li>
+<li>Robotics and Intelligent Systems</li>
+</ul>
 
 </td>
 </tr>
@@ -430,6 +396,7 @@ I'm interested in opportunities where I can contribute to building impactful int
 **Open to meaningful collaborations, research opportunities, and AI engineering roles.**
 
 </div>
+
 
 
 
