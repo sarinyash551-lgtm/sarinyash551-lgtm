@@ -40,19 +40,50 @@ Building practical intelligent systems through machine learning, language techno
 
 <div align="center">
 
-<sub>01 / THE PERSON BEHIND THE PROJECTS</sub>
-
 # ABOUT ME
 
 </div>
+
+<table>
+<tr>
+<td width="58%" valign="top">
 
 I'm an **AI & Big Data graduate from Woosong University, South Korea**, passionate about developing intelligent systems that address real-world engineering and industrial challenges.
 
 My interests span the intersection of artificial intelligence, mathematical modeling and software development.
 
-I enjoy working across the complete development process:
+</td>
+<td width="42%" valign="top">
 
-**Understanding the problem → Developing the model → Implementing the solution → Evaluating the results**
+**MY APPROACH**
+
+<br/>
+
+<sub>01 — UNDERSTAND</sub>
+
+Understand the problem
+
+<br/>
+
+<sub>02 — DEVELOP</sub>
+
+Develop the model
+
+<br/>
+
+<sub>03 — IMPLEMENT</sub>
+
+Implement the solution
+
+<br/>
+
+<sub>04 — EVALUATE</sub>
+
+Evaluate the results
+
+</td>
+</tr>
+</table>
 
 ### Areas of Focus
 
@@ -185,8 +216,6 @@ A convolutional neural network approach to bearing fault identification using vi
 ---
 
 <div align="center">
-
-<sub>03 / TOOLS & TECHNOLOGIES</sub>
 
 # TECHNICAL ARSENAL
 
@@ -333,13 +362,15 @@ APIs, Deployment, MLOps
 
 A snapshot of my coding activity and repository statistics.
 
-</div>
+<br/><br/>
 
-<div align="center">
+<img width="90%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sarinyash551-lgtm&theme=tokyonight" alt="GitHub profile summary"/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=sarinyash551-lgtm&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics"/>
+<br/><br/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarinyash551-lgtm&layout=compact&theme=tokyonight&hide_border=true" alt="Most used programming languages"/>
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sarinyash551-lgtm&theme=tokyonight" alt="GitHub statistics"/>
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sarinyash551-lgtm&theme=tokyonight" alt="Most used programming languages"/>
 
 <br/><br/>
 
@@ -394,10 +425,6 @@ I'm interested in opportunities where I can contribute to building impactful int
 </div>
 
 ---
-
-<!-- ===================================================== -->
-<!--                       FOOTER                           -->
-<!-- ===================================================== -->
 
 <div align="center">
 
