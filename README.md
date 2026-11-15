@@ -36,55 +36,49 @@ Building practical intelligent systems through machine learning, language techno
 
 </div>
 
-I'm an **AI & Big Data graduate from Woosong University, South Korea**, passionate about developing intelligent systems that address real-world engineering and industrial challenges.
+<p align="center">
+  <strong>Artificial Intelligence Graduate</strong><br/>
+  <sub>Woosong University · South Korea</sub>
+</p>
+
+I'm an **Artificial Intelligence graduate from Woosong University, South Korea**, passionate about developing intelligent systems that address real-world engineering and industrial challenges.
 
 My interests span the intersection of artificial intelligence, mathematical modeling and software development.
 
 ### MY APPROACH
 
-<div align="center">
+<p align="center">
+  <strong>01&nbsp; UNDERSTAND</strong><br/>
+  <sub>Understand the problem</sub>
+  <br/><br/>
+  ↓
+  <br/><br/>
+  <strong>02&nbsp; DEVELOP</strong><br/>
+  <sub>Develop the model</sub>
+  <br/><br/>
+  ↓
+  <br/><br/>
+  <strong>03&nbsp; IMPLEMENT</strong><br/>
+  <sub>Implement the solution</sub>
+  <br/><br/>
+  ↓
+  <br/><br/>
+  <strong>04&nbsp; EVALUATE</strong><br/>
+  <sub>Evaluate the results</sub>
+</p>
 
-**01 — UNDERSTAND** &nbsp; Understand the problem
+### AREAS OF FOCUS
 
-**→**
-
-**02 — DEVELOP** &nbsp; Develop the model
-
-**→**
-
-**03 — IMPLEMENT** &nbsp; Implement the solution
-
-**→**
-
-**04 — EVALUATE** &nbsp; Evaluate the results
-
-</div>
-
-### Areas of Focus
-
-**ARTIFICIAL INTELLIGENCE**  
-Intelligent Systems & Generative AI
-
-**MACHINE LEARNING**  
-Predictive Modeling & Classification
-
-**DEEP LEARNING**  
-CNNs, LSTMs & Neural Networks
-
-**NATURAL LANGUAGE PROCESSING**  
-LLMs & Text Processing
-
-**RETRIEVAL SYSTEMS**  
-RAG, Embeddings & Semantic Search
-
-**ROBOTICS**  
-Kinematics & Spatial Transformations
-
-**COMPUTER VISION**  
-Image Processing & Visual Recognition
-
-**AI ENGINEERING**  
-Practical AI Applications & Deployment
+| | |
+|:---|:---|
+| **ARTIFICIAL INTELLIGENCE** | Intelligent Systems & Generative AI |
+| **MACHINE LEARNING** | Predictive Modeling & Classification |
+| **DEEP LEARNING** | CNNs, LSTMs & Neural Networks |
+| **NATURAL LANGUAGE PROCESSING** | LLMs & Text Processing |
+| **RETRIEVAL SYSTEMS** | RAG, Embeddings & Semantic Search |
+| **ROBOTICS** | Kinematics & Spatial Transformations |
+| **COMPUTER VISION** | Image Processing & Visual Recognition |
+| **AI ENGINEERING** | Practical AI Applications & Deployment |
 
 <div align="center">
 
