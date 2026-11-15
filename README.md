@@ -302,25 +302,23 @@ APIs, Deployment, MLOps
 
 ---
 
+
 <div align="center">
 
 # CURRENTLY EXPLORING
-
-</div>
-
-<div align="center">
 
 <img src="https://img.shields.io/badge/01-Large%20Language%20Models-312E81?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/02-AI%20Agents-4338CA?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/03-Advanced%20RAG-4F46E5?style=for-the-badge"/>
 
-<br/><br/>
+<br/>
 
 <img src="https://img.shields.io/badge/04-Computer%20Vision-2563EB?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/05-MLOps-0369A1?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/06-AI%20Deployment-0E7490?style=for-the-badge"/>
 
 </div>
+
 
 ---
 
