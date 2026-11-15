@@ -1,77 +1,93 @@
 
-<!-- ====================================================== -->
-<!--                    PROFILE HEADER                      -->
-<!-- ====================================================== -->
+<!-- ===================================================== -->
+<!--                    YASH SARIN                          -->
+<!--              GITHUB PROFILE README                     -->
+<!-- ===================================================== -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=wave&color=0:0F172A,50:312E81,100:2563EB&height=220&section=header&text=YASH%20SARIN&fontSize=55&fontColor=FFFFFF&fontAlignY=38" width="100%" alt="Yash Sarin"/>
+<img src="https://capsule-render.vercel.app/api?type=wave&color=0:0F172A,50:312E81,100:2563EB&height=220&section=header&text=YASH%20SARIN&fontSize=55&fontColor=FFFFFF&fontAlignY=38" width="100%" alt="Yash Sarin - AI and Machine Learning Engineer"/>
 
-### Building Intelligent Systems That Make an Impact
+<br/>
+
+# AI & MACHINE LEARNING ENGINEER
+
+### Engineering Intelligence. Building What Matters.
 
 **NLP** &nbsp;·&nbsp; **RAG** &nbsp;·&nbsp; **Deep Learning** &nbsp;·&nbsp; **Robotics** &nbsp;·&nbsp; **Generative AI**
 
 <br/>
 
-Turning complex data, language models, and mathematical concepts into practical AI solutions.
+Building practical intelligent systems through machine learning, language technologies and mathematical engineering.
 
 <br/><br/>
 
 <a href="https://www.linkedin.com/in/yash-sarin-700595412">
-<img src="https://img.shields.io/badge/LINKEDIN-Connect-2563EB?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+<img src="https://img.shields.io/badge/LINKEDIN-LET'S%20CONNECT-2563EB?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 &nbsp;
 <a href="mailto:phdyash0@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-Get%20in%20Touch-7C3AED?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+<img src="https://img.shields.io/badge/EMAIL-GET%20IN%20TOUCH-7C3AED?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=818CF8&center=true&vCenter=true&width=600&lines=Developing+Intelligent+AI+Systems;Exploring+LLMs+%26+Retrieval+Systems;Building+Practical+Machine+Learning+Solutions;Engineering+the+Future+with+AI" alt="Typing introduction"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&duration=3000&pause=1000&color=818CF8&center=true&vCenter=true&width=650&lines=Building+Intelligent+AI+Systems;Exploring+Language+Models+%26+RAG;Engineering+Practical+Machine+Learning;Connecting+Mathematics+with+Intelligent+Systems" alt="Animated introduction"/>
 
 </div>
 
 ---
 
-<!-- ====================================================== -->
-<!--                       ABOUT ME                         -->
-<!-- ====================================================== -->
+<div align="center">
 
-## ◈ ABOUT ME
+<sub>01 / THE PERSON BEHIND THE PROJECTS</sub>
 
-I'm an **AI & Big Data graduate from Woosong University, South Korea**, passionate about building intelligent systems that solve real-world engineering and industrial problems.
+# ABOUT ME
 
-My interests sit at the intersection of:
+</div>
 
-| | Area | Focus |
-|:--:|---|---|
-| 🧠 | Artificial Intelligence | Intelligent Systems & Deep Learning |
-| 💬 | Natural Language Processing | LLMs & Text Processing |
-| 🔎 | Retrieval-Augmented Generation | Semantic Search & Document AI |
-| 🤖 | Generative AI | AI Agents & LLM Applications |
-| 🦾 | Robotics | Kinematics & Mathematical Modeling |
-| 👁️ | Computer Vision | Image Processing & Recognition |
-| ⚙️ | AI Engineering | Implementation & Deployment |
+I'm an **AI & Big Data graduate from Woosong University, South Korea**, passionate about developing intelligent systems that address real-world engineering and industrial challenges.
 
-I enjoy taking ideas from **mathematical foundations → model development → implementation → practical applications**.
+My interests span the intersection of artificial intelligence, mathematical modeling and software development.
 
-> **My philosophy:** Build intelligent systems that are not only technically interesting but genuinely useful.
+I enjoy working across the complete development process:
+
+**Understanding the problem → Developing the model → Implementing the solution → Evaluating the results**
+
+### Areas of Focus
+
+| FIELD | INTEREST |
+|:---|:---|
+| Artificial Intelligence | Intelligent Systems & Generative AI |
+| Machine Learning | Predictive Modeling & Classification |
+| Deep Learning | CNNs, LSTMs & Neural Networks |
+| Natural Language Processing | LLMs & Text Processing |
+| Retrieval Systems | RAG, Embeddings & Semantic Search |
+| Robotics | Kinematics & Spatial Transformations |
+| Computer Vision | Image Processing & Visual Recognition |
+| AI Engineering | Practical AI Applications & Deployment |
+
+> *My philosophy: Build intelligent systems that are not just technically interesting, but genuinely useful.*
 
 ---
 
-<!-- ====================================================== -->
-<!--                    SELECTED PROJECTS                    -->
-<!-- ====================================================== -->
+<div align="center">
 
-## ◈ SELECTED PROJECTS
+<sub>02 / SELECTED WORK</sub>
 
-*Exploring intelligent systems through practical implementation.*
+# PROJECT SHOWCASE
+
+A collection of projects exploring AI, language processing, deep learning and robotics.
+
+</div>
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-<h3>📄 PaperMind AI</h3>
+### 01 — 📄 PaperMind AI
+
+**Research Intelligence**
 
 An AI-powered research paper assistant focused on intelligent document understanding and research workflows.
 
@@ -84,7 +100,9 @@ An AI-powered research paper assistant focused on intelligent document understan
 </td>
 <td width="50%" valign="top">
 
-<h3>🌾 AgriAssist RAG</h3>
+### 02 — 🌾 AgriAssist RAG
+
+**Agricultural Intelligence**
 
 A Retrieval-Augmented Generation system for rice pest management, combining document retrieval with AI-generated responses.
 
@@ -100,7 +118,9 @@ A Retrieval-Augmented Generation system for rice pest management, combining docu
 <tr>
 <td width="50%" valign="top">
 
-<h3>🤖 PUMA560 Simulator</h3>
+### 03 — 🤖 PUMA560 Simulator
+
+**Robotics & Kinematics**
 
 Robotics simulation implementing forward kinematics using Denavit–Hartenberg parameters.
 
@@ -113,7 +133,9 @@ Robotics simulation implementing forward kinematics using Denavit–Hartenberg p
 </td>
 <td width="50%" valign="top">
 
-<h3>🦾 Robot Spatial Transformations</h3>
+### 04 — 🦾 Robot Spatial Transformations
+
+**Mathematical Engineering**
 
 Pure Python implementation of robotics spatial transformations and mathematical operations without NumPy.
 
@@ -129,7 +151,9 @@ Pure Python implementation of robotics spatial transformations and mathematical 
 <tr>
 <td width="50%" valign="top">
 
-<h3>🎬 IMDb Sentiment Analysis</h3>
+### 05 — 🎬 IMDb Sentiment Analysis
+
+**Natural Language Processing**
 
 An LSTM-based deep learning model for binary sentiment classification using movie reviews.
 
@@ -142,7 +166,9 @@ An LSTM-based deep learning model for binary sentiment classification using movi
 </td>
 <td width="50%" valign="top">
 
-<h3>⚙️ CNN Bearing Fault Classification</h3>
+### 06 — ⚙️ CNN Bearing Fault Classification
+
+**Industrial Deep Learning**
 
 A convolutional neural network approach to bearing fault identification using vibration data.
 
@@ -158,21 +184,23 @@ A convolutional neural network approach to bearing fault identification using vi
 
 ---
 
-<!-- ====================================================== -->
-<!--                    TECHNICAL ARSENAL                    -->
-<!-- ====================================================== -->
+<div align="center">
 
-## ◈ TECHNICAL ARSENAL
+<sub>03 / TOOLS & TECHNOLOGIES</sub>
 
-*Technologies and tools I work with.*
+# TECHNICAL ARSENAL
 
-### 01 / AI & MACHINE LEARNING
+Technologies and tools used across my development and learning journey.
+
+</div>
+
+### 01 — AI & MACHINE LEARNING
 
 <p>
 <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,cpp&theme=dark" alt="Python, TensorFlow, PyTorch, Scikit-learn and C++"/>
 </p>
 
-### 02 / DATA SCIENCE & INTELLIGENT SYSTEMS
+### 02 — DATA SCIENCE & INTELLIGENT SYSTEMS
 
 <p>
 <img src="https://img.shields.io/badge/NUMPY-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
@@ -182,11 +210,13 @@ A convolutional neural network approach to bearing fault identification using vi
 <img src="https://img.shields.io/badge/LLMs-312E81?style=for-the-badge"/>
 </p>
 
-### 03 / DEVELOPMENT & VISUALIZATION
+### 03 — DEVELOPMENT & VERSION CONTROL
 
 <p>
 <img src="https://skillicons.dev/icons?i=git,github&theme=dark" alt="Git and GitHub"/>
 </p>
+
+### 04 — VISUALIZATION & RESEARCH TOOLS
 
 <p>
 <img src="https://img.shields.io/badge/STREAMLIT-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
@@ -195,61 +225,73 @@ A convolutional neural network approach to bearing fault identification using vi
 <img src="https://img.shields.io/badge/GOOGLE%20COLAB-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black"/>
 </p>
 
-### 04 / ADDITIONAL TECHNICAL SKILLS
+### ADDITIONAL TECHNICAL SKILLS
 
-<p>
 <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square"/>
 <img src="https://img.shields.io/badge/KERAS-D00000?style=flat-square"/>
 <img src="https://img.shields.io/badge/SHAP-5A189A?style=flat-square"/>
 <img src="https://img.shields.io/badge/PROMPT%20ENGINEERING-4338CA?style=flat-square"/>
 <img src="https://img.shields.io/badge/SALIENCY%20MAPS-2563EB?style=flat-square"/>
 <img src="https://img.shields.io/badge/EXCEL-217346?style=flat-square"/>
-</p>
 
 ---
 
-<!-- ====================================================== -->
-<!--                    AREAS OF INTEREST                    -->
-<!-- ====================================================== -->
+<div align="center">
 
-## ◈ AREAS OF EXPERTISE & INTEREST
+<sub>04 / AREAS OF INTEREST</sub>
+
+# WHAT DRIVES MY CURIOSITY
+
+</div>
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-**01 — ARTIFICIAL INTELLIGENCE**
+**01 / ARTIFICIAL INTELLIGENCE**
 
 Intelligent Systems, Generative AI
 
-**02 — MACHINE LEARNING**
+---
+
+**02 / MACHINE LEARNING**
 
 Predictive Modeling, Classification
 
-**03 — DEEP LEARNING**
+---
+
+**03 / DEEP LEARNING**
 
 CNNs, LSTMs, Neural Networks
 
-**04 — NATURAL LANGUAGE PROCESSING**
+---
+
+**04 / NATURAL LANGUAGE PROCESSING**
 
 LLMs, Text Processing, Semantic Search
 
 </td>
 <td width="50%" valign="top">
 
-**05 — RETRIEVAL-AUGMENTED GENERATION**
+**05 / RETRIEVAL-AUGMENTED GENERATION**
 
 Embeddings, Vector Retrieval, Document AI
 
-**06 — ROBOTICS**
+---
+
+**06 / ROBOTICS**
 
 Kinematics, Spatial Transformations
 
-**07 — COMPUTER VISION**
+---
+
+**07 / COMPUTER VISION**
 
 Image Processing, Visual Recognition
 
-**08 — AI ENGINEERING**
+---
+
+**08 / AI ENGINEERING**
 
 APIs, Deployment, MLOps
 
@@ -259,11 +301,13 @@ APIs, Deployment, MLOps
 
 ---
 
-<!-- ====================================================== -->
-<!--                    CURRENTLY EXPLORING                   -->
-<!-- ====================================================== -->
+<div align="center">
 
-## ◈ CURRENTLY EXPLORING
+<sub>05 / THE LEARNING CURVE</sub>
+
+# CURRENTLY EXPLORING
+
+</div>
 
 <div align="center">
 
@@ -281,11 +325,15 @@ APIs, Deployment, MLOps
 
 ---
 
-<!-- ====================================================== -->
-<!--                    GITHUB ANALYTICS                     -->
-<!-- ====================================================== -->
+<div align="center">
 
-## ◈ GITHUB ANALYTICS
+<sub>06 / DEVELOPMENT ACTIVITY</sub>
+
+# GITHUB ANALYTICS
+
+A snapshot of my coding activity and repository statistics.
+
+</div>
 
 <div align="center">
 
@@ -301,11 +349,13 @@ APIs, Deployment, MLOps
 
 ---
 
-<!-- ====================================================== -->
-<!--                 CAREER & COLLABORATION                   -->
-<!-- ====================================================== -->
+<div align="center">
 
-## ◈ CAREER & COLLABORATION
+<sub>07 / FUTURE OPPORTUNITIES</sub>
+
+# CAREER & COLLABORATION
+
+</div>
 
 I'm interested in opportunities where I can contribute to building impactful intelligent systems.
 
@@ -313,7 +363,7 @@ I'm interested in opportunities where I can contribute to building impactful int
 <tr>
 <td width="50%" valign="top">
 
-**ENGINEERING**
+### ENGINEERING
 
 - AI & Machine Learning Engineering
 - Deep Learning and NLP
@@ -322,7 +372,7 @@ I'm interested in opportunities where I can contribute to building impactful int
 </td>
 <td width="50%" valign="top">
 
-**RESEARCH & DEVELOPMENT**
+### RESEARCH & DEVELOPMENT
 
 - RAG and AI Agent Development
 - Applied AI Research
@@ -337,15 +387,17 @@ I'm interested in opportunities where I can contribute to building impactful int
 <img src="https://img.shields.io/badge/OPEN%20TO-COLLABORATION-2563EB?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/INTERESTED%20IN-AI%20OPPORTUNITIES-7C3AED?style=for-the-badge"/>
 
-</div>
+<br/><br/>
 
 **Open to meaningful collaborations, research opportunities, and AI engineering roles.**
 
+</div>
+
 ---
 
-<!-- ====================================================== -->
+<!-- ===================================================== -->
 <!--                       FOOTER                           -->
-<!-- ====================================================== -->
+<!-- ===================================================== -->
 
 <div align="center">
 
@@ -354,5 +406,9 @@ I'm interested in opportunities where I can contribute to building impactful int
 ### Thanks for visiting my profile! 👋
 
 **Always Learning · Always Building · Always Exploring**
+
+<br/>
+
+<sub>Designed with intention. Built with curiosity.</sub>
 
 </div>
