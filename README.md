@@ -93,72 +93,90 @@ Evaluate the results
 
 </div>
 
+
 <table width="100%">
 <tr>
-<td width="50%" align="center" valign="middle">
+<td width="50%" valign="top">
 
-• **ARTIFICIAL INTELLIGENCE**
+<p align="center"><strong>ARTIFICIAL INTELLIGENCE</strong></p>
 
-Intelligent Systems & Generative AI
-
-</td>
-<td width="50%" align="center" valign="middle">
-
-• **MACHINE LEARNING**
-
-Predictive Modeling & Classification
+<ul>
+<li>Intelligent Systems & Generative AI</li>
+</ul>
 
 </td>
-</tr>
-<tr>
-<td width="50%" valign="middle">
+<td width="50%" valign="top">
 
-- **DEEP LEARNING**
+<p align="center"><strong>MACHINE LEARNING</strong></p>
 
-  CNNs, LSTMs & Neural Networks
-
-</td>
-<td width="50%" valign="middle">
-
-- **NATURAL LANGUAGE PROCESSING**
-
-  LLMs & Text Processing
+<ul>
+<li>Predictive Modeling & Classification</li>
+</ul>
 
 </td>
 </tr>
 <tr>
-<td width="50%" valign="middle">
+<td width="50%" valign="top">
 
-- **RETRIEVAL SYSTEMS**
+<p align="center"><strong>DEEP LEARNING</strong></p>
 
-  RAG, Embeddings & Semantic Search
+<ul>
+<li>CNNs, LSTMs & Neural Networks</li>
+</ul>
 
 </td>
-<td width="50%" valign="middle">
+<td width="50%" valign="top">
 
-- **ROBOTICS**
+<p align="center"><strong>NATURAL LANGUAGE PROCESSING</strong></p>
 
-  Kinematics & Spatial Transformations
+<ul>
+<li>LLMs & Text Processing</li>
+</ul>
 
 </td>
 </tr>
 <tr>
-<td width="50%" valign="middle">
+<td width="50%" valign="top">
 
-- **COMPUTER VISION**
+<p align="center"><strong>RETRIEVAL SYSTEMS</strong></p>
 
-  Image Processing & Visual Recognition
+<ul>
+<li>RAG, Embeddings & Semantic Search</li>
+</ul>
 
 </td>
-<td width="50%" valign="middle">
+<td width="50%" valign="top">
 
-- **AI ENGINEERING**
+<p align="center"><strong>ROBOTICS</strong></p>
 
-  Practical AI Applications & Deployment
+<ul>
+<li>Kinematics & Spatial Transformations</li>
+</ul>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<p align="center"><strong>COMPUTER VISION</strong></p>
+
+<ul>
+<li>Image Processing & Visual Recognition</li>
+</ul>
+
+</td>
+<td width="50%" valign="top">
+
+<p align="center"><strong>AI ENGINEERING</strong></p>
+
+<ul>
+<li>Practical AI Applications & Deployment</li>
+</ul>
 
 </td>
 </tr>
 </table>
+
 
 
 <div align="center">
