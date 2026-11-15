@@ -416,8 +416,10 @@ I'm interested in opportunities where I can contribute to building impactful int
 
 ---
 
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=wave&color=0:0F172A,50:312E81,100:2563EB&height=180&section=footer&text=THANKS%20FOR%20VISITING&fontSize=30&fontColor=FFFFFF&fontAlignY=40&desc=Always%20Learning%20%C2%B7%20Always%20Building%20%C2%B7%20Always%20Exploring&descSize=14&descAlignY=62" width="100%" alt="Thanks for visiting - Yash Sarin"/>
+<img src="https://capsule-render.vercel.app/api?type=wave&color=0:0F172A,50:312E81,100:2563EB&height=180&section=footer&text=THANKS%20FOR%20VISITING&fontSize=36&fontColor=FFFFFF&fontAlignY=40&desc=Always%20Learning%20%C2%B7%20Always%20Building%20%C2%B7%20Always%20Exploring&descSize=17&descAlignY=64" width="100%" alt="Thanks for visiting - Yash Sarin"/>
 
 </div>
+
