@@ -28,8 +28,7 @@ Building practical intelligent systems through machine learning, language techno
 
 </div>
 
-
-<!-- ABOUT ME -->
+---
 
 <div align="center">
 
@@ -41,7 +40,6 @@ I'm an **Artificial Intelligence graduate from Woosong University, South Korea**
 
 My interests span the intersection of artificial intelligence, mathematical modeling and software development.
 
-
 <hr/>
 
 <div align="center">
@@ -50,7 +48,7 @@ My interests span the intersection of artificial intelligence, mathematical mode
 
 </div>
 
-<table width="100%">
+<table align="center" width="85%">
 <tr>
 <td width="25%" align="center" valign="middle">
 
@@ -93,8 +91,7 @@ Evaluate the results
 
 </div>
 
-
-<table width="100%">
+<table align="center" width="85%">
 <tr>
 <td width="50%" valign="top">
 
@@ -153,13 +150,11 @@ Evaluate the results
 </tr>
 </table>
 
-
 <div align="center">
 
 *Build intelligent systems that are not just technically interesting, but genuinely useful.*
 
 </div>
-
 
 ---
 
@@ -171,7 +166,7 @@ A collection of projects exploring AI, language processing, deep learning and ro
 
 </div>
 
-<table>
+<table align="center" width="100%">
 <tr>
 <td width="50%" valign="top">
 
@@ -351,7 +346,6 @@ APIs, Deployment, MLOps
 
 ---
 
-
 <div align="center">
 
 # CURRENTLY EXPLORING
@@ -367,7 +361,6 @@ APIs, Deployment, MLOps
 <img src="https://img.shields.io/badge/06-AI%20Deployment-0E7490?style=for-the-badge"/>
 
 </div>
-
 
 ---
 
@@ -395,10 +388,6 @@ A snapshot of my coding activity and repository statistics.
 
 ---
 
-
-
-
-
 <div align="center">
 
 # CAREER & COLLABORATION
@@ -407,7 +396,7 @@ I'm interested in opportunities where I can contribute to building impactful int
 
 </div>
 
-<table width="100%">
+<table align="center" width="85%">
 <tr>
 <td width="48%" align="center" valign="middle">
 
@@ -457,16 +446,10 @@ I'm interested in opportunities where I can contribute to building impactful int
 
 </div>
 
-
-
-
-
 ---
-
 
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=wave&color=0:0F172A,50:312E81,100:2563EB&height=180&section=footer&text=THANKS%20FOR%20VISITING&fontSize=36&fontColor=FFFFFF&fontAlignY=40&desc=Always%20Learning%20%C2%B7%20Always%20Building%20%C2%B7%20Always%20Exploring&descSize=17&descAlignY=64" width="100%" alt="Thanks for visiting - Yash Sarin"/>
 
 </div>
-
