@@ -38,48 +38,63 @@ Building practical intelligent systems through machine learning, language techno
 
 ---
 
+<!-- ABOUT ME -->
+
 <div align="center">
 
 # ABOUT ME
 
 </div>
 
-<table>
+<table width="100%">
 <tr>
-<td width="58%" valign="top">
+<td width="62%" valign="top">
 
 I'm an **AI & Big Data graduate from Woosong University, South Korea**, passionate about developing intelligent systems that address real-world engineering and industrial challenges.
+
+<br/>
 
 My interests span the intersection of artificial intelligence, mathematical modeling and software development.
 
 </td>
-<td width="42%" valign="top">
+<td width="38%" valign="top">
 
 **MY APPROACH**
 
-<br/>
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
 
 <sub>01 — UNDERSTAND</sub>
 
-Understand the problem
+**Understand the problem**
 
-<br/>
+</td>
+<td width="50%" valign="top">
 
 <sub>02 — DEVELOP</sub>
 
-Develop the model
+**Develop the model**
 
-<br/>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
 <sub>03 — IMPLEMENT</sub>
 
-Implement the solution
+**Implement the solution**
 
-<br/>
+</td>
+<td width="50%" valign="top">
 
 <sub>04 — EVALUATE</sub>
 
-Evaluate the results
+**Evaluate the results**
+
+</td>
+</tr>
+</table>
 
 </td>
 </tr>
@@ -87,20 +102,82 @@ Evaluate the results
 
 ### Areas of Focus
 
-| FIELD | INTEREST |
-|:---|:---|
-| Artificial Intelligence | Intelligent Systems & Generative AI |
-| Machine Learning | Predictive Modeling & Classification |
-| Deep Learning | CNNs, LSTMs & Neural Networks |
-| Natural Language Processing | LLMs & Text Processing |
-| Retrieval Systems | RAG, Embeddings & Semantic Search |
-| Robotics | Kinematics & Spatial Transformations |
-| Computer Vision | Image Processing & Visual Recognition |
-| AI Engineering | Practical AI Applications & Deployment |
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
 
-> *My philosophy: Build intelligent systems that are not just technically interesting, but genuinely useful.*
+**ARTIFICIAL INTELLIGENCE**
+
+Intelligent Systems & Generative AI
+
+</td>
+<td width="50%" valign="top">
+
+**MACHINE LEARNING**
+
+Predictive Modeling & Classification
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**DEEP LEARNING**
+
+CNNs, LSTMs & Neural Networks
+
+</td>
+<td width="50%" valign="top">
+
+**NATURAL LANGUAGE PROCESSING**
+
+LLMs & Text Processing
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**RETRIEVAL SYSTEMS**
+
+RAG, Embeddings & Semantic Search
+
+</td>
+<td width="50%" valign="top">
+
+**ROBOTICS**
+
+Kinematics & Spatial Transformations
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**COMPUTER VISION**
+
+Image Processing & Visual Recognition
+
+</td>
+<td width="50%" valign="top">
+
+**AI ENGINEERING**
+
+Practical AI Applications & Deployment
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+*Build intelligent systems that are not just technically interesting, but genuinely useful.*
+
+</div>
 
 ---
+
+<!-- PROJECT SHOWCASE -->
 
 <div align="center">
 
@@ -213,6 +290,8 @@ A convolutional neural network approach to bearing fault identification using vi
 
 ---
 
+<!-- TECHNICAL ARSENAL -->
+
 <div align="center">
 
 # TECHNICAL ARSENAL
@@ -263,37 +342,21 @@ Technologies and tools used across my development and learning journey.
 
 ---
 
+<!-- AREAS OF INTEREST -->
+
 <div align="center">
 
 # WHAT DRIVES MY CURIOSITY
 
 </div>
 
-<table>
+<table width="100%">
 <tr>
 <td width="50%" valign="top">
 
 **01 / ARTIFICIAL INTELLIGENCE**
 
 Intelligent Systems, Generative AI
-
----
-
-**02 / MACHINE LEARNING**
-
-Predictive Modeling, Classification
-
----
-
-**03 / DEEP LEARNING**
-
-CNNs, LSTMs, Neural Networks
-
----
-
-**04 / NATURAL LANGUAGE PROCESSING**
-
-LLMs, Text Processing, Semantic Search
 
 </td>
 <td width="50%" valign="top">
@@ -302,19 +365,49 @@ LLMs, Text Processing, Semantic Search
 
 Embeddings, Vector Retrieval, Document AI
 
----
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**02 / MACHINE LEARNING**
+
+Predictive Modeling, Classification
+
+</td>
+<td width="50%" valign="top">
 
 **06 / ROBOTICS**
 
 Kinematics, Spatial Transformations
 
----
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**03 / DEEP LEARNING**
+
+CNNs, LSTMs, Neural Networks
+
+</td>
+<td width="50%" valign="top">
 
 **07 / COMPUTER VISION**
 
 Image Processing, Visual Recognition
 
----
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**04 / NATURAL LANGUAGE PROCESSING**
+
+LLMs, Text Processing, Semantic Search
+
+</td>
+<td width="50%" valign="top">
 
 **08 / AI ENGINEERING**
 
@@ -325,6 +418,8 @@ APIs, Deployment, MLOps
 </table>
 
 ---
+
+<!-- CURRENTLY EXPLORING -->
 
 <div align="center">
 
@@ -347,6 +442,8 @@ APIs, Deployment, MLOps
 </div>
 
 ---
+
+<!-- GITHUB ANALYTICS -->
 
 <div align="center">
 
@@ -372,15 +469,19 @@ A snapshot of my coding activity and repository statistics.
 
 ---
 
+<!-- CAREER & COLLABORATION -->
+
 <div align="center">
 
 # CAREER & COLLABORATION
 
 </div>
 
+<p align="center">
 I'm interested in opportunities where I can contribute to building impactful intelligent systems.
+</p>
 
-<table>
+<table width="100%">
 <tr>
 <td width="50%" valign="top">
 
@@ -415,6 +516,8 @@ I'm interested in opportunities where I can contribute to building impactful int
 </div>
 
 ---
+
+<!-- FOOTER -->
 
 <div align="center">
 
