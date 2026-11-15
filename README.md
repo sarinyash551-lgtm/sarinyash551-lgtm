@@ -1,9 +1,7 @@
 
 <div align="center">
 
-![Yash Sarin](https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:312E81,100:2563EB&height=220&section=header&text=YASH%20SARIN&fontSize=55&fontColor=FFFFFF&fontAlignY=38&desc=AI%20%26%20MACHINE%20LEARNING%20ENGINEER&descSize=17&descAlignY=58&animation=fadeIn)
-
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0F172A,50:312E81,100:2563EB&amp;height=220&amp;section=header&amp;text=YASH%20SARIN&amp;fontSize=55&amp;fontColor=FFFFFF&amp;fontAlignY=38&amp;desc=AI%20%26%20MACHINE%20LEARNING%20ENGINEER&amp;descSize=17&amp;descAlignY=58&amp;animation=fadeIn" width="100%" alt="Yash Sarin - AI and Machine Learning Engineer"/>
 
 ### Building Intelligent Systems That Make an Impact
 
@@ -16,16 +14,16 @@ Turning complex data, language models, and mathematical concepts into practical 
 <br/>
 
 <a href="https://www.linkedin.com/in/yash-sarin-700595412">
-  <img src="https://img.shields.io/badge/LINKEDIN-Connect-2563EB?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <img src="https://img.shields.io/badge/LINKEDIN-Connect-2563EB?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn"/>
 </a>
 &nbsp;
 <a href="mailto:phdyash0@gmail.com">
-  <img src="https://img.shields.io/badge/EMAIL-Get%20in%20Touch-7C3AED?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  <img src="https://img.shields.io/badge/EMAIL-Get%20in%20Touch-7C3AED?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email"/>
 </a>
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=818CF8&center=true&vCenter=true&width=600&lines=Developing+Intelligent+AI+Systems;Exploring+LLMs+%26+Retrieval+Systems;Building+Practical+Machine+Learning+Solutions;Engineering+the+Future+with+AI" alt="Typing introduction"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=500&amp;size=18&amp;duration=3000&amp;pause=1000&amp;color=818CF8&amp;center=true&amp;vCenter=true&amp;width=600&amp;lines=Developing+Intelligent+AI+Systems;Exploring+LLMs+%26+Retrieval+Systems;Building+Practical+Machine+Learning+Solutions;Engineering+the+Future+with+AI" alt="Typing introduction"/>
 
 </div>
 
@@ -149,22 +147,22 @@ A convolutional neural network approach to bearing fault identification using vi
 **01 / AI & MACHINE LEARNING**
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,keras&theme=dark" alt="Python, TensorFlow, PyTorch, Scikit-learn and Keras"/>
+<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn&amp;theme=dark" alt="Python, TensorFlow, PyTorch and Scikit-learn"/>
 </p>
 
-**02 / DATA PROCESSING & NLP**
+**02 / PROGRAMMING & DATA PROCESSING**
 
 <p>
-<img src="https://skillicons.dev/icons?i=numpy,pandas&theme=dark" alt="NumPy and Pandas"/>
+<img src="https://skillicons.dev/icons?i=cpp&amp;theme=dark" alt="C++"/>
 </p>
 
-**03 / DEVELOPMENT & VISUALIZATION**
+**03 / DEVELOPMENT & VERSION CONTROL**
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,jupyter,streamlit&theme=dark" alt="Git, GitHub, Jupyter and Streamlit"/>
+<img src="https://skillicons.dev/icons?i=git,github&amp;theme=dark" alt="Git and GitHub"/>
 </p>
 
-**Additional Skills:** C++, SQL, FAISS, Prompt Engineering, SHAP, Saliency Maps, Matplotlib, Google Colab, Microsoft Excel.
+**Additional Skills:** Keras, SQL, Pandas, NumPy, FAISS, NLP, LLMs, Prompt Engineering, SHAP, Saliency Maps, Matplotlib, Streamlit, Jupyter Notebook, Google Colab, Microsoft Excel.
 
 ---
 
@@ -205,13 +203,13 @@ A convolutional neural network approach to bearing fault identification using vi
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=sarinyash551-lgtm&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=sarinyash551-lgtm&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;rank_icon=github" alt="GitHub statistics"/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarinyash551-lgtm&layout=compact&theme=tokyonight&hide_border=true" alt="Most used programming languages"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarinyash551-lgtm&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true" alt="Most used programming languages"/>
 
 <br/><br/>
 
-<img width="70%" src="https://streak-stats.demolab.com?user=sarinyash551-lgtm&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>
+<img width="70%" src="https://streak-stats.demolab.com?user=sarinyash551-lgtm&amp;theme=tokyonight&amp;hide_border=true" alt="GitHub contribution streak"/>
 
 </div>
 
@@ -234,7 +232,7 @@ I'm interested in opportunities where I can contribute to building impactful int
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,50:312E81,100:0F172A&height=120&section=footer" width="100%" alt="Decorative footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:2563EB,50:312E81,100:0F172A&amp;height=120&amp;section=footer" width="100%" alt="Decorative footer"/>
 
 ### Thanks for visiting my profile! 👋
 
