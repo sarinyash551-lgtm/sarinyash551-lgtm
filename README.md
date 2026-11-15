@@ -358,33 +358,34 @@ A snapshot of my coding activity and repository statistics.
 
 
 
+<h2 align="center">CAREER & COLLABORATION</h2>
 
-<div align="center">
-
-# CAREER & COLLABORATION
-
+<p align="center">
 I'm interested in opportunities where I can contribute to building impactful intelligent systems.
+</p>
 
-</div>
-
-<table width="100%">
+<table border="0" width="100%">
 <tr>
-<td width="50%" valign="top">
+<td width="50%" valign="top" align="left">
 
-### ENGINEERING
+<h3>ENGINEERING</h3>
 
-- AI & Machine Learning Engineering
-- Deep Learning and NLP
-- Generative AI and LLM Applications
+AI & Machine Learning Engineering
+
+Deep Learning and NLP
+
+Generative AI and LLM Applications
 
 </td>
-<td width="50%" valign="top">
+<td width="50%" valign="top" align="left">
 
-### RESEARCH & DEVELOPMENT
+<h3>RESEARCH & DEVELOPMENT</h3>
 
-- RAG and AI Agent Development
-- Applied AI Research
-- Robotics and Intelligent Systems
+RAG and AI Agent Development
+
+Applied AI Research
+
+Robotics and Intelligent Systems
 
 </td>
 </tr>
@@ -400,6 +401,7 @@ I'm interested in opportunities where I can contribute to building impactful int
 **Open to meaningful collaborations, research opportunities, and AI engineering roles.**
 
 </div>
+
 
 
 
