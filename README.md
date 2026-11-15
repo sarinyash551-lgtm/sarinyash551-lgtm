@@ -348,6 +348,7 @@ A snapshot of my coding activity and repository statistics.
 
 ---
 
+
 <div align="center">
 
 # CAREER & COLLABORATION
@@ -360,24 +361,20 @@ I'm interested in opportunities where I can contribute to building impactful int
 <tr>
 <td width="50%" valign="top">
 
-<h3>ENGINEERING</h3>
+<h3><small>ENGINEERING</small></h3>
 
-<ul>
-<li>AI & Machine Learning Engineering</li>
-<li>Deep Learning and NLP</li>
-<li>Generative AI and LLM Applications</li>
-</ul>
+- AI & Machine Learning Engineering
+- Deep Learning and NLP
+- Generative AI and LLM Applications
 
 </td>
 <td width="50%" valign="top">
 
-<h3>RESEARCH &amp; DEVELOPMENT</h3>
+<h3><small>RESEARCH &amp; DEVELOPMENT</small></h3>
 
-<ul>
-<li>RAG and AI Agent Development</li>
-<li>Applied AI Research</li>
-<li>Robotics and Intelligent Systems</li>
-</ul>
+- RAG and AI Agent Development
+- Applied AI Research
+- Robotics and Intelligent Systems
 
 </td>
 </tr>
@@ -393,6 +390,7 @@ I'm interested in opportunities where I can contribute to building impactful int
 **Open to meaningful collaborations, research opportunities, and AI engineering roles.**
 
 </div>
+
 
 ---
 
