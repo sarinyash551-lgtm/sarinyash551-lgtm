@@ -28,13 +28,12 @@ Building practical intelligent systems through machine learning, language techno
 
 </div>
 
----
+
+<!-- ABOUT ME -->
 
 <div align="center">
 
 # ABOUT ME
-
-<sub>ARTIFICIAL INTELLIGENCE · ENGINEERING · INNOVATION</sub>
 
 </div>
 
@@ -44,73 +43,114 @@ My interests span the intersection of artificial intelligence, mathematical mode
 
 ### MY APPROACH
 
-<div align="center">
+<table width="100%">
+<tr>
+<td width="25%" align="center" valign="top">
 
-**01 — UNDERSTAND** · Understand the problem
+**01 — UNDERSTAND**
 
-**→**
+Understand the problem
 
-**02 — DEVELOP** · Develop the model
+</td>
+<td width="25%" align="center" valign="top">
 
-**→**
+**02 — DEVELOP**
 
-**03 — IMPLEMENT** · Implement the solution
+Develop the model
 
-**→**
+</td>
+<td width="25%" align="center" valign="top">
 
-**04 — EVALUATE** · Evaluate the results
+**03 — IMPLEMENT**
 
-</div>
+Implement the solution
+
+</td>
+<td width="25%" align="center" valign="top">
+
+**04 — EVALUATE**
+
+Evaluate the results
+
+</td>
+</tr>
+</table>
 
 ### AREAS OF FOCUS
 
-<div align="center">
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
 
-**ARTIFICIAL INTELLIGENCE**  
+**ARTIFICIAL INTELLIGENCE**
+
 Intelligent Systems & Generative AI
 
-&nbsp; · &nbsp;
+</td>
+<td width="50%" valign="top">
 
-**MACHINE LEARNING**  
+**MACHINE LEARNING**
+
 Predictive Modeling & Classification
 
----
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-**DEEP LEARNING**  
+**DEEP LEARNING**
+
 CNNs, LSTMs & Neural Networks
 
-&nbsp; · &nbsp;
+</td>
+<td width="50%" valign="top">
 
-**NATURAL LANGUAGE PROCESSING**  
+**NATURAL LANGUAGE PROCESSING**
+
 LLMs & Text Processing
 
----
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-**RETRIEVAL SYSTEMS**  
+**RETRIEVAL SYSTEMS**
+
 RAG, Embeddings & Semantic Search
 
-&nbsp; · &nbsp;
+</td>
+<td width="50%" valign="top">
 
-**ROBOTICS**  
+**ROBOTICS**
+
 Kinematics & Spatial Transformations
 
----
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-**COMPUTER VISION**  
+**COMPUTER VISION**
+
 Image Processing & Visual Recognition
 
-&nbsp; · &nbsp;
+</td>
+<td width="50%" valign="top">
 
-**AI ENGINEERING**  
+**AI ENGINEERING**
+
 Practical AI Applications & Deployment
 
-</div>
+</td>
+</tr>
+</table>
 
 <div align="center">
 
 *Build intelligent systems that are not just technically interesting, but genuinely useful.*
 
 </div>
+
 
 ---
 
