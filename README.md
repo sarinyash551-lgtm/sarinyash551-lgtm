@@ -30,8 +30,6 @@ Building practical intelligent systems through machine learning, language techno
 
 ---
 
-<!-- ABOUT ME -->
-
 <div align="center">
 
 # ABOUT ME
@@ -42,109 +40,51 @@ I'm an **AI & Big Data graduate from Woosong University, South Korea**, passiona
 
 My interests span the intersection of artificial intelligence, mathematical modeling and software development.
 
-**MY APPROACH**
+### MY APPROACH
 
-<table width="100%">
-<tr>
-<td width="25%" align="center" valign="top">
+<div align="center">
 
-<sub>01 — UNDERSTAND</sub>
+**01 — UNDERSTAND** &nbsp; Understand the problem
 
-**Understand the problem**
+**→**
 
-</td>
-<td width="25%" align="center" valign="top">
+**02 — DEVELOP** &nbsp; Develop the model
 
-<sub>02 — DEVELOP</sub>
+**→**
 
-**Develop the model**
+**03 — IMPLEMENT** &nbsp; Implement the solution
 
-</td>
-<td width="25%" align="center" valign="top">
+**→**
 
-<sub>03 — IMPLEMENT</sub>
+**04 — EVALUATE** &nbsp; Evaluate the results
 
-**Implement the solution**
-
-</td>
-<td width="25%" align="center" valign="top">
-
-<sub>04 — EVALUATE</sub>
-
-**Evaluate the results**
-
-</td>
-</tr>
-</table>
+</div>
 
 ### Areas of Focus
 
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
-
-**ARTIFICIAL INTELLIGENCE**
-
+**ARTIFICIAL INTELLIGENCE**  
 Intelligent Systems & Generative AI
 
-</td>
-<td width="50%" valign="top">
-
-**MACHINE LEARNING**
-
+**MACHINE LEARNING**  
 Predictive Modeling & Classification
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-**DEEP LEARNING**
-
+**DEEP LEARNING**  
 CNNs, LSTMs & Neural Networks
 
-</td>
-<td width="50%" valign="top">
-
-**NATURAL LANGUAGE PROCESSING**
-
+**NATURAL LANGUAGE PROCESSING**  
 LLMs & Text Processing
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-**RETRIEVAL SYSTEMS**
-
+**RETRIEVAL SYSTEMS**  
 RAG, Embeddings & Semantic Search
 
-</td>
-<td width="50%" valign="top">
-
-**ROBOTICS**
-
+**ROBOTICS**  
 Kinematics & Spatial Transformations
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-**COMPUTER VISION**
-
+**COMPUTER VISION**  
 Image Processing & Visual Recognition
 
-</td>
-<td width="50%" valign="top">
-
-**AI ENGINEERING**
-
+**AI ENGINEERING**  
 Practical AI Applications & Deployment
-
-</td>
-</tr>
-</table>
 
 <div align="center">
 
@@ -153,8 +93,6 @@ Practical AI Applications & Deployment
 </div>
 
 ---
-
-<!-- PROJECT SHOWCASE -->
 
 <div align="center">
 
@@ -267,8 +205,6 @@ A convolutional neural network approach to bearing fault identification using vi
 
 ---
 
-<!-- TECHNICAL ARSENAL -->
-
 <div align="center">
 
 # TECHNICAL ARSENAL
@@ -310,16 +246,9 @@ Technologies and tools used across my development and learning journey.
 
 ### ADDITIONAL TECHNICAL SKILLS
 
-<img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square"/>
-<img src="https://img.shields.io/badge/KERAS-D00000?style=flat-square"/>
-<img src="https://img.shields.io/badge/SHAP-5A189A?style=flat-square"/>
-<img src="https://img.shields.io/badge/PROMPT%20ENGINEERING-4338CA?style=flat-square"/>
-<img src="https://img.shields.io/badge/SALIENCY%20MAPS-2563EB?style=flat-square"/>
-<img src="https://img.shields.io/badge/EXCEL-217346?style=flat-square"/>
+<p><img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square"/> <img src="https://img.shields.io/badge/KERAS-D00000?style=flat-square"/> <img src="https://img.shields.io/badge/SHAP-5A189A?style=flat-square"/> <img src="https://img.shields.io/badge/PROMPT%20ENGINEERING-4338CA?style=flat-square"/> <img src="https://img.shields.io/badge/SALIENCY%20MAPS-2563EB?style=flat-square"/> <img src="https://img.shields.io/badge/EXCEL-217346?style=flat-square"/></p>
 
 ---
-
-<!-- AREAS OF INTEREST -->
 
 <div align="center">
 
@@ -327,76 +256,31 @@ Technologies and tools used across my development and learning journey.
 
 </div>
 
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
-
-**01 / ARTIFICIAL INTELLIGENCE**
-
+**01 / ARTIFICIAL INTELLIGENCE**  
 Intelligent Systems, Generative AI
 
-</td>
-<td width="50%" valign="top">
-
-**05 / RETRIEVAL-AUGMENTED GENERATION**
-
-Embeddings, Vector Retrieval, Document AI
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-**02 / MACHINE LEARNING**
-
+**02 / MACHINE LEARNING**  
 Predictive Modeling, Classification
 
-</td>
-<td width="50%" valign="top">
-
-**06 / ROBOTICS**
-
-Kinematics, Spatial Transformations
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-**03 / DEEP LEARNING**
-
+**03 / DEEP LEARNING**  
 CNNs, LSTMs, Neural Networks
 
-</td>
-<td width="50%" valign="top">
-
-**07 / COMPUTER VISION**
-
-Image Processing, Visual Recognition
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-**04 / NATURAL LANGUAGE PROCESSING**
-
+**04 / NATURAL LANGUAGE PROCESSING**  
 LLMs, Text Processing, Semantic Search
 
-</td>
-<td width="50%" valign="top">
+**05 / RETRIEVAL-AUGMENTED GENERATION**  
+Embeddings, Vector Retrieval, Document AI
 
-**08 / AI ENGINEERING**
+**06 / ROBOTICS**  
+Kinematics, Spatial Transformations
 
+**07 / COMPUTER VISION**  
+Image Processing, Visual Recognition
+
+**08 / AI ENGINEERING**  
 APIs, Deployment, MLOps
 
-</td>
-</tr>
-</table>
-
 ---
-
-<!-- CURRENTLY EXPLORING -->
 
 <div align="center">
 
@@ -419,8 +303,6 @@ APIs, Deployment, MLOps
 </div>
 
 ---
-
-<!-- GITHUB ANALYTICS -->
 
 <div align="center">
 
@@ -446,8 +328,6 @@ A snapshot of my coding activity and repository statistics.
 
 ---
 
-<!-- CAREER & COLLABORATION -->
-
 <div align="center">
 
 # CAREER & COLLABORATION
@@ -456,28 +336,17 @@ I'm interested in opportunities where I can contribute to building impactful int
 
 </div>
 
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
-
 ### ENGINEERING
 
 - AI & Machine Learning Engineering
 - Deep Learning and NLP
 - Generative AI and LLM Applications
 
-</td>
-<td width="50%" valign="top">
-
 ### RESEARCH & DEVELOPMENT
 
 - RAG and AI Agent Development
 - Applied AI Research
 - Robotics and Intelligent Systems
-
-</td>
-</tr>
-</table>
 
 <div align="center">
 
@@ -491,8 +360,6 @@ I'm interested in opportunities where I can contribute to building impactful int
 </div>
 
 ---
-
-<!-- FOOTER -->
 
 <div align="center">
 
