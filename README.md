@@ -1,7 +1,9 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:312E81,100:2563EB&height=220&section=header&text=YASH%20SARIN&fontSize=55&fontColor=FFFFFF&fontAlignY=38&desc=AI%20%26%20MACHINE%20LEARNING%20ENGINEER&descSize=17&descAlignY=58&animation=fadeIn" width="100%" alt="Yash Sarin - AI and Machine Learning Engineer"/>
+![Yash Sarin](https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:312E81,100:2563EB&height=220&section=header&text=YASH%20SARIN&fontSize=55&fontColor=FFFFFF&fontAlignY=38&desc=AI%20%26%20MACHINE%20LEARNING%20ENGINEER&descSize=17&descAlignY=58&animation=fadeIn)
+
+</div>
 
 ### Building Intelligent Systems That Make an Impact
 
