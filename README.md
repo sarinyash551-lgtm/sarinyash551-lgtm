@@ -24,8 +24,6 @@ Building practical intelligent systems through machine learning, language techno
 <img src="https://img.shields.io/badge/EMAIL-GET%20IN%20TOUCH-7C3AED?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 
-<br/>
-
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&duration=3000&pause=1000&color=818CF8&center=true&vCenter=true&width=650&lines=Building+Intelligent+AI+Systems;Exploring+Language+Models+%26+RAG;Engineering+Practical+Machine+Learning;Connecting+Mathematics+with+Intelligent+Systems" alt="Animated introduction"/>
 
 </div>
@@ -44,44 +42,36 @@ I'm an **AI & Big Data graduate from Woosong University, South Korea**, passiona
 
 My interests span the intersection of artificial intelligence, mathematical modeling and software development.
 
-### MY APPROACH
+**MY APPROACH**
 
 <table width="100%">
 <tr>
-<td width="25%" valign="top">
+<td width="25%" align="center" valign="top">
 
-<sub>01</sub>
+<sub>01 — UNDERSTAND</sub>
 
-**UNDERSTAND**
-
-Understand the problem
+**Understand the problem**
 
 </td>
-<td width="25%" valign="top">
+<td width="25%" align="center" valign="top">
 
-<sub>02</sub>
+<sub>02 — DEVELOP</sub>
 
-**DEVELOP**
-
-Develop the model
+**Develop the model**
 
 </td>
-<td width="25%" valign="top">
+<td width="25%" align="center" valign="top">
 
-<sub>03</sub>
+<sub>03 — IMPLEMENT</sub>
 
-**IMPLEMENT**
-
-Implement the solution
+**Implement the solution**
 
 </td>
-<td width="25%" valign="top">
+<td width="25%" align="center" valign="top">
 
-<sub>04</sub>
+<sub>04 — EVALUATE</sub>
 
-**EVALUATE**
-
-Evaluate the results
+**Evaluate the results**
 
 </td>
 </tr>
@@ -89,15 +79,72 @@ Evaluate the results
 
 ### Areas of Focus
 
-| **ARTIFICIAL INTELLIGENCE** | **MACHINE LEARNING** |
-|:---|:---|
-| Intelligent Systems & Generative AI | Predictive Modeling & Classification |
-| **DEEP LEARNING** | **NATURAL LANGUAGE PROCESSING** |
-| CNNs, LSTMs & Neural Networks | LLMs & Text Processing |
-| **RETRIEVAL SYSTEMS** | **ROBOTICS** |
-| RAG, Embeddings & Semantic Search | Kinematics & Spatial Transformations |
-| **COMPUTER VISION** | **AI ENGINEERING** |
-| Image Processing & Visual Recognition | Practical AI Applications & Deployment |
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
+**ARTIFICIAL INTELLIGENCE**
+
+Intelligent Systems & Generative AI
+
+</td>
+<td width="50%" valign="top">
+
+**MACHINE LEARNING**
+
+Predictive Modeling & Classification
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**DEEP LEARNING**
+
+CNNs, LSTMs & Neural Networks
+
+</td>
+<td width="50%" valign="top">
+
+**NATURAL LANGUAGE PROCESSING**
+
+LLMs & Text Processing
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**RETRIEVAL SYSTEMS**
+
+RAG, Embeddings & Semantic Search
+
+</td>
+<td width="50%" valign="top">
+
+**ROBOTICS**
+
+Kinematics & Spatial Transformations
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**COMPUTER VISION**
+
+Image Processing & Visual Recognition
+
+</td>
+<td width="50%" valign="top">
+
+**AI ENGINEERING**
+
+Practical AI Applications & Deployment
+
+</td>
+</tr>
+</table>
 
 <div align="center">
 
@@ -280,15 +327,72 @@ Technologies and tools used across my development and learning journey.
 
 </div>
 
-| **ARTIFICIAL INTELLIGENCE** | **RETRIEVAL-AUGMENTED GENERATION** |
-|:---|:---|
-| Intelligent Systems, Generative AI | Embeddings, Vector Retrieval, Document AI |
-| **MACHINE LEARNING** | **ROBOTICS** |
-| Predictive Modeling, Classification | Kinematics, Spatial Transformations |
-| **DEEP LEARNING** | **COMPUTER VISION** |
-| CNNs, LSTMs, Neural Networks | Image Processing, Visual Recognition |
-| **NATURAL LANGUAGE PROCESSING** | **AI ENGINEERING** |
-| LLMs, Text Processing, Semantic Search | APIs, Deployment, MLOps |
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
+**01 / ARTIFICIAL INTELLIGENCE**
+
+Intelligent Systems, Generative AI
+
+</td>
+<td width="50%" valign="top">
+
+**05 / RETRIEVAL-AUGMENTED GENERATION**
+
+Embeddings, Vector Retrieval, Document AI
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**02 / MACHINE LEARNING**
+
+Predictive Modeling, Classification
+
+</td>
+<td width="50%" valign="top">
+
+**06 / ROBOTICS**
+
+Kinematics, Spatial Transformations
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**03 / DEEP LEARNING**
+
+CNNs, LSTMs, Neural Networks
+
+</td>
+<td width="50%" valign="top">
+
+**07 / COMPUTER VISION**
+
+Image Processing, Visual Recognition
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**04 / NATURAL LANGUAGE PROCESSING**
+
+LLMs, Text Processing, Semantic Search
+
+</td>
+<td width="50%" valign="top">
+
+**08 / AI ENGINEERING**
+
+APIs, Deployment, MLOps
+
+</td>
+</tr>
+</table>
 
 ---
 
