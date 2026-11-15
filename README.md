@@ -360,32 +360,35 @@ A snapshot of my coding activity and repository statistics.
 
 
 
-<h2 align="center">CAREER & COLLABORATION</h2>
 
-<p align="center">
-I'm interested in opportunities where I can contribute to building impactful intelligent systems.
-</p>
-
-<table border="0" width="100%">
+<table width="100%">
 <tr>
-<td width="50%" valign="top" align="left">
+<td width="40%" valign="top" align="left">
 
 <h3>ENGINEERING</h3>
 
 AI & Machine Learning Engineering
 
+<br/><br/>
+
 Deep Learning and NLP
+
+<br/><br/>
 
 Generative AI and LLM Applications
 
 </td>
-<td width="50%" valign="top" align="left">
+<td width="60%" valign="top" align="left">
 
-<h3>RESEARCH AND DEVELOPMENT</h3>
+<h3>RESEARCH &amp; DEVELOPMENT</h3>
 
 RAG and AI Agent Development
 
+<br/><br/>
+
 Applied AI Research
+
+<br/><br/>
 
 Robotics and Intelligent Systems
 
@@ -393,16 +396,6 @@ Robotics and Intelligent Systems
 </tr>
 </table>
 
-<div align="center">
-
-<img src="https://img.shields.io/badge/OPEN%20TO-COLLABORATION-2563EB?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/INTERESTED%20IN-AI%20OPPORTUNITIES-7C3AED?style=for-the-badge"/>
-
-<br/><br/>
-
-**Open to meaningful collaborations, research opportunities, and AI engineering roles.**
-
-</div>
 
 
 
