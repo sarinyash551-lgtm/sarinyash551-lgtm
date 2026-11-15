@@ -1,9 +1,11 @@
 
-<!-- ==================== HEADER ==================== -->
+<!-- ====================================================== -->
+<!--                    PROFILE HEADER                      -->
+<!-- ====================================================== -->
 
 <div align="center">
 
-![Yash Sarin Header](https://capsule-render.vercel.app/api?type=wave&color=0:0F172A,50:312E81,100:2563EB&height=220&section=header&text=YASH%20SARIN&fontSize=55&fontColor=FFFFFF&fontAlignY=38)
+<img src="https://capsule-render.vercel.app/api?type=wave&color=0:0F172A,50:312E81,100:2563EB&height=220&section=header&text=YASH%20SARIN&fontSize=55&fontColor=FFFFFF&fontAlignY=38" width="100%" alt="Yash Sarin"/>
 
 ### Building Intelligent Systems That Make an Impact
 
@@ -13,7 +15,7 @@
 
 Turning complex data, language models, and mathematical concepts into practical AI solutions.
 
-<br/>
+<br/><br/>
 
 <a href="https://www.linkedin.com/in/yash-sarin-700595412">
 <img src="https://img.shields.io/badge/LINKEDIN-Connect-2563EB?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
@@ -31,27 +33,39 @@ Turning complex data, language models, and mathematical concepts into practical 
 
 ---
 
+<!-- ====================================================== -->
+<!--                       ABOUT ME                         -->
+<!-- ====================================================== -->
+
 ## ◈ ABOUT ME
 
 I'm an **AI & Big Data graduate from Woosong University, South Korea**, passionate about building intelligent systems that solve real-world engineering and industrial problems.
 
 My interests sit at the intersection of:
 
-- 🧠 **Artificial Intelligence & Deep Learning**
-- 💬 **Natural Language Processing & LLMs**
-- 🔎 **Retrieval-Augmented Generation**
-- 🤖 **AI Agents & Generative AI**
-- 🦾 **Robotics & Mathematical Modeling**
-- 👁️ **Computer Vision**
-- ⚙️ **AI Engineering & Deployment**
+| | Area | Focus |
+|:--:|---|---|
+| 🧠 | Artificial Intelligence | Intelligent Systems & Deep Learning |
+| 💬 | Natural Language Processing | LLMs & Text Processing |
+| 🔎 | Retrieval-Augmented Generation | Semantic Search & Document AI |
+| 🤖 | Generative AI | AI Agents & LLM Applications |
+| 🦾 | Robotics | Kinematics & Mathematical Modeling |
+| 👁️ | Computer Vision | Image Processing & Recognition |
+| ⚙️ | AI Engineering | Implementation & Deployment |
 
-I enjoy taking ideas from mathematical foundations to model development, implementation, and practical applications.
+I enjoy taking ideas from **mathematical foundations → model development → implementation → practical applications**.
 
 > **My philosophy:** Build intelligent systems that are not only technically interesting but genuinely useful.
 
 ---
 
+<!-- ====================================================== -->
+<!--                    SELECTED PROJECTS                    -->
+<!-- ====================================================== -->
+
 ## ◈ SELECTED PROJECTS
+
+*Exploring intelligent systems through practical implementation.*
 
 <table>
 <tr>
@@ -144,7 +158,13 @@ A convolutional neural network approach to bearing fault identification using vi
 
 ---
 
+<!-- ====================================================== -->
+<!--                    TECHNICAL ARSENAL                    -->
+<!-- ====================================================== -->
+
 ## ◈ TECHNICAL ARSENAL
+
+*Technologies and tools I work with.*
 
 ### 01 / AI & MACHINE LEARNING
 
@@ -188,20 +208,60 @@ A convolutional neural network approach to bearing fault identification using vi
 
 ---
 
+<!-- ====================================================== -->
+<!--                    AREAS OF INTEREST                    -->
+<!-- ====================================================== -->
+
 ## ◈ AREAS OF EXPERTISE & INTEREST
 
-| DOMAIN                  | FOCUS                                     |
-| ----------------------- | ----------------------------------------- |
-| Artificial Intelligence | Intelligent Systems, Generative AI        |
-| Machine Learning        | Predictive Modeling, Classification       |
-| Deep Learning           | CNNs, LSTMs, Neural Networks              |
-| NLP                     | LLMs, Text Processing, Semantic Search    |
-| RAG                     | Embeddings, Vector Retrieval, Document AI |
-| Robotics                | Kinematics, Spatial Transformations       |
-| Computer Vision         | Image Processing, Visual Recognition      |
-| AI Engineering          | APIs, Deployment, MLOps                   |
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**01 — ARTIFICIAL INTELLIGENCE**
+
+Intelligent Systems, Generative AI
+
+**02 — MACHINE LEARNING**
+
+Predictive Modeling, Classification
+
+**03 — DEEP LEARNING**
+
+CNNs, LSTMs, Neural Networks
+
+**04 — NATURAL LANGUAGE PROCESSING**
+
+LLMs, Text Processing, Semantic Search
+
+</td>
+<td width="50%" valign="top">
+
+**05 — RETRIEVAL-AUGMENTED GENERATION**
+
+Embeddings, Vector Retrieval, Document AI
+
+**06 — ROBOTICS**
+
+Kinematics, Spatial Transformations
+
+**07 — COMPUTER VISION**
+
+Image Processing, Visual Recognition
+
+**08 — AI ENGINEERING**
+
+APIs, Deployment, MLOps
+
+</td>
+</tr>
+</table>
 
 ---
+
+<!-- ====================================================== -->
+<!--                    CURRENTLY EXPLORING                   -->
+<!-- ====================================================== -->
 
 ## ◈ CURRENTLY EXPLORING
 
@@ -211,7 +271,7 @@ A convolutional neural network approach to bearing fault identification using vi
 <img src="https://img.shields.io/badge/02-AI%20Agents-4338CA?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/03-Advanced%20RAG-4F46E5?style=for-the-badge"/>
 
-<br/>
+<br/><br/>
 
 <img src="https://img.shields.io/badge/04-Computer%20Vision-2563EB?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/05-MLOps-0369A1?style=for-the-badge"/>
@@ -220,6 +280,10 @@ A convolutional neural network approach to bearing fault identification using vi
 </div>
 
 ---
+
+<!-- ====================================================== -->
+<!--                    GITHUB ANALYTICS                     -->
+<!-- ====================================================== -->
 
 ## ◈ GITHUB ANALYTICS
 
@@ -231,28 +295,57 @@ A convolutional neural network approach to bearing fault identification using vi
 
 <br/><br/>
 
-<img width="70%" src="https://streak-stats.demolab.com?user=sarinyash551-lgtm&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>
+<img width="75%" src="https://streak-stats.demolab.com?user=sarinyash551-lgtm&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>
 
 </div>
 
 ---
 
+<!-- ====================================================== -->
+<!--                 CAREER & COLLABORATION                   -->
+<!-- ====================================================== -->
+
 ## ◈ CAREER & COLLABORATION
 
 I'm interested in opportunities where I can contribute to building impactful intelligent systems.
 
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**ENGINEERING**
+
 - AI & Machine Learning Engineering
 - Deep Learning and NLP
 - Generative AI and LLM Applications
+
+</td>
+<td width="50%" valign="top">
+
+**RESEARCH & DEVELOPMENT**
+
 - RAG and AI Agent Development
 - Applied AI Research
 - Robotics and Intelligent Systems
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/OPEN%20TO-COLLABORATION-2563EB?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/INTERESTED%20IN-AI%20OPPORTUNITIES-7C3AED?style=for-the-badge"/>
+
+</div>
 
 **Open to meaningful collaborations, research opportunities, and AI engineering roles.**
 
 ---
 
-<!-- ==================== FOOTER ==================== -->
+<!-- ====================================================== -->
+<!--                       FOOTER                           -->
+<!-- ====================================================== -->
 
 <div align="center">
 
