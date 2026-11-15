@@ -1,27 +1,26 @@
-<div align="center">
+ <div align="center">
 
-# 👋 Hi, I'm **Yash Sarin**
+# 👋 Hi, I'm Yash Sarin
 
 ### AI & Machine Learning Engineer
 
-**NLP • RAG • Deep Learning • Robotics • Generative AI**
+**Building Intelligent Systems | NLP · RAG · Deep Learning · Robotics**
 
-Building intelligent systems that turn **data, language, and mathematical models into practical AI solutions.**
+Turning complex data, language models, and mathematical concepts into practical AI solutions.
 
-<br>
+<br/>
 
 <a href="https://www.linkedin.com/in/yash-sarin-700595412">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 &nbsp;
-
-<a href="mailto:phdyash0@gmail.com">
-  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=phdyash0@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
 </a>
-
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=sarinyash551-lgtm&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
+&nbsp;
+<a href="https://outlook.office.com/mail/deeplink/compose?to=phdyash0%40gmail.com">
+  <img src="https://img.shields.io/badge/Outlook-Email-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Outlook"/>
+</a>
 
 </div>
 
@@ -29,21 +28,20 @@ Building intelligent systems that turn **data, language, and mathematical models
 
 ## 🧠 About Me
 
-I'm an **AI & Big Data graduate from Woosong University, South Korea**, focused on building practical AI and machine learning systems.
+I'm an **AI & Big Data graduate from Woosong University, South Korea**, passionate about developing intelligent systems that solve real-world problems.
 
-My work combines:
+My technical interests span:
 
-- 🤖 **Machine Learning & Deep Learning**
-- 🧠 **Natural Language Processing**
-- 🔎 **Retrieval-Augmented Generation**
-- 🦾 **Robotics & Kinematics**
-- 👁️ **Computer Vision**
-- 🧩 **Generative AI & LLM Applications**
-- ⚙️ **Data & AI Engineering**
+- **Artificial Intelligence:** Machine Learning, Deep Learning & Generative AI
+- **Natural Language Processing:** LLMs, Text Processing & Semantic Search
+- **Retrieval-Augmented Generation:** Document Intelligence & Knowledge Retrieval
+- **Robotics:** Kinematics, Spatial Transformations & Mathematical Modeling
+- **Computer Vision:** Image Processing & Deep Learning
+- **AI Engineering:** Model Development, APIs & Deployment
 
-I enjoy taking an idea from **mathematical foundations → model development → implementation → deployment**.
+I enjoy working across the complete AI development lifecycle — from mathematical foundations and data processing to model development and practical implementation.
 
-> **My goal:** Build AI systems that solve real-world engineering and industrial problems.
+> My goal is to engineer intelligent, scalable, and impactful AI solutions.
 
 ---
 
@@ -51,73 +49,76 @@ I enjoy taking an idea from **mathematical foundations → model development →
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 📄 PaperMind AI
 
-AI-powered research paper assistant designed for intelligent document understanding and research workflows.
+An AI-powered research paper assistant focused on intelligent document understanding and research workflows.
 
-**Focus:**  
-`LLMs` `NLP` `Document AI` `RAG`
+**Core Technologies**
+
+`LLMs` `NLP` `RAG` `Document AI`
 
 </td>
-
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 🌾 AgriAssist RAG
 
-Retrieval-Augmented Generation system for rice pest management, combining document retrieval with AI-generated responses.
+A Retrieval-Augmented Generation system designed to support rice pest management through document retrieval and AI-powered responses.
 
-**Focus:**  
-`RAG` `FAISS` `Embeddings` `NLP` `Streamlit`
+**Core Technologies**
+
+`RAG` `FAISS` `Embeddings` `Streamlit`
 
 </td>
 </tr>
 
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 🤖 PUMA560 Simulator
 
-Robotics simulation focused on forward kinematics using **Denavit–Hartenberg parameters**.
+Robotics simulation implementing forward kinematics using Denavit–Hartenberg parameters.
 
-**Focus:**  
-`Python` `Robotics` `Kinematics` `DH Parameters`
+**Core Technologies**
+
+`Python` `Robotics` `Kinematics` `Linear Algebra`
 
 </td>
-
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 🤖 Robot Spatial Transformations
 
 Pure Python implementation of robotics spatial transformations and mathematical operations without NumPy.
 
-**Focus:**  
-`Python` `Linear Algebra` `Robotics` `Transformations`
+**Core Technologies**
+
+`Python` `Linear Algebra` `Robotics` `Mathematics`
 
 </td>
 </tr>
 
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 🎬 IMDb Sentiment Analysis
 
-LSTM-based deep learning model for binary sentiment classification using movie reviews.
+An LSTM-based deep learning model for binary sentiment classification using movie reviews.
 
-**Focus:**  
-`NLP` `LSTM` `Deep Learning` `Text Classification`
+**Core Technologies**
+
+`Python` `NLP` `LSTM` `Deep Learning`
 
 </td>
-
-<td width="50%">
+<td width="50%" valign="top">
 
 ### ⚙️ CNN Bearing Fault Classification
 
-Deep learning system for identifying bearing faults using vibration data.
+A convolutional neural network approach to bearing fault identification using vibration data.
 
-**Focus:**  
-`CNN` `Deep Learning` `Fault Diagnosis` `Industrial AI`
+**Core Technologies**
+
+`CNN` `Python` `Fault Diagnosis` `Industrial AI`
 
 </td>
 </tr>
@@ -125,63 +126,50 @@ Deep learning system for identifying bearing faults using vibration data.
 
 ---
 
-## 🛠️ Technology Stack
+## 🛠️ Technical Skills
 
-### 🤖 AI / Machine Learning
+### Artificial Intelligence & Machine Learning
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn" />
+<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn" alt="Python, TensorFlow, PyTorch and Scikit-learn"/>
 </p>
 
-### 🌐 Development & APIs
+### Backend & Development Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=fastapi,git,github,docker,linux,vscode" />
+<img src="https://skillicons.dev/icons?i=fastapi,git,github,docker,linux,vscode" alt="FastAPI, Git, GitHub, Docker, Linux and VS Code"/>
 </p>
 
-### 🗄️ Data & Computer Vision
+### Databases & Computer Vision
 
 <p>
-<img src="https://skillicons.dev/icons?i=mysql,sqlite,opencv,anaconda" />
+<img src="https://skillicons.dev/icons?i=mysql,sqlite,opencv,anaconda" alt="MySQL, SQLite, OpenCV and Anaconda"/>
 </p>
 
 ---
 
-## 🔬 Areas of Interest
+## 🔬 Technical Focus Areas
 
-<table>
-<tr>
-<td align="center">🤖<br><b>Artificial Intelligence</b></td>
-<td align="center">🧠<br><b>Machine Learning</b></td>
-<td align="center">🔥<br><b>Deep Learning</b></td>
-<td align="center">💬<br><b>NLP</b></td>
-</tr>
-
-<tr>
-<td align="center">🔎<br><b>RAG</b></td>
-<td align="center">🦾<br><b>Robotics</b></td>
-<td align="center">👁️<br><b>Computer Vision</b></td>
-<td align="center">⚙️<br><b>AI Engineering</b></td>
-</tr>
-</table>
+| Domain | Areas |
+|:---|:---|
+| Artificial Intelligence | Machine Learning, Generative AI |
+| Deep Learning | CNNs, LSTMs, Neural Networks |
+| NLP | Text Classification, LLMs, Semantic Search |
+| RAG | Embeddings, Vector Search, Document Retrieval |
+| Robotics | Kinematics, Spatial Transformations |
+| Computer Vision | Image Processing, Visual Recognition |
+| AI Engineering | APIs, Deployment, MLOps |
 
 ---
 
 ## 📚 Currently Exploring
 
-```text
-Large Language Models
-        ↓
-Retrieval-Augmented Generation
-        ↓
-AI Agents & Multi-Agent Systems
-        ↓
-Computer Vision
-        ↓
-MLOps & AI Deployment
-        ↓
-Production-Ready AI Systems
-```
+- 🧠 Large Language Models and LLM Applications
+- 🤖 AI Agents and Multi-Agent Systems
+- 🔎 Advanced Retrieval-Augmented Generation
+- 👁️ Computer Vision and Deep Learning
+- ⚙️ MLOps and AI Deployment
+- 🚀 Production-Ready AI Systems
 
 ---
 
@@ -189,64 +177,39 @@ Production-Ready AI Systems
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=sarinyash551-lgtm&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=sarinyash551-lgtm&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Statistics"/>
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarinyash551-lgtm&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarinyash551-lgtm&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages"/>
 
-</div>
+<br/><br/>
 
-<br>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=sarinyash551-lgtm&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=sarinyash551-lgtm&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak"/>
 
 </div>
 
 ---
 
-## 📈 Contribution Activity
+## 🎯 Career Interests
 
-<div align="center">
+I'm interested in opportunities where I can contribute to building and improving intelligent systems.
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sarinyash551-lgtm&theme=tokyo-night&hide_border=true&area=true" />
+**Areas of Opportunity**
 
-</div>
+- AI / Machine Learning Engineering
+- Deep Learning & NLP
+- Generative AI & LLM Applications
+- RAG and AI Agent Development
+- AI Research & Applied Engineering
+- Robotics and Intelligent Systems
 
----
-
-## 🎯 What I'm Looking For
-
-I'm currently interested in opportunities involving:
-
-**AI Engineering** • **Machine Learning** • **Deep Learning** • **NLP** • **RAG** • **Generative AI** • **AI Research**
-
-Open to:
-
-- 💼 AI / ML Engineering roles
-- 🚀 AI/ML internships
-- 🔬 AI research opportunities
-- 🧠 NLP & LLM projects
-- 🤖 Robotics & intelligent systems
+Open to collaborating on meaningful AI projects and exploring opportunities in AI engineering and research.
 
 ---
 
-## 📫 Let's Connect
-
 <div align="center">
 
-<a href="https://www.linkedin.com/in/yash-sarin-700595412">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
+### ⭐ Thanks for visiting my profile!
 
-&nbsp;
-
-<a href="mailto:phdyash0@gmail.com">
-  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
-
-<br><br>
-
-⭐ **Thanks for visiting my profile!**
+**Always learning. Always building. Always exploring AI.**
 
 </div>
